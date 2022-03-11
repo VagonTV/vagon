@@ -5101,34 +5101,6 @@
     }
   },
   {
-    "name": "Белсат ТВ",
-    "logo": null,
-    "playlist": [
-      "http://f1.stream.devkom.pro:1063/ramowka/video.m3u8"
-    ],
-    "scheduleName": "belsat",
-    "geo": 0,
-    "is_top": false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Большая Азия",
     "logo": "https://iptvx.one/icn/bolshaya-azia.png",
     "playlist": [
