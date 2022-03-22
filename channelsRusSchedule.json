@@ -1635,7 +1635,7 @@
   },
   {
     "name": "НТВ-Хит",
-    "logo": "https://vagontv.github.io/vagon/ic_ntv_hit.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_ntv_hit.png",
     "playlist": [
       "https://msk3.peers.tv/streaming/ntv_hit/16/vh1w/playlist.m3u8?"
     ],
@@ -1663,7 +1663,7 @@
   },
   {
     "name": "Sony Sci-Fi",
-    "logo": "https://vagontv.github.io/vagon/ic_sony_sci-fi.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_sony_sci-fi.png",
     "playlist": [
       "https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8"
     ],
@@ -2590,7 +2590,7 @@
   },
   {
     "name": "Amediateka HBO",
-    "logo": "https://vagontv.github.io/vagon/ic_amediaka_hbo.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_amediaka_hbo.png",
     "playlist": [
       "http://ott-cdn.ucom.am/s64/index.m3u8"
     ],
@@ -2618,7 +2618,7 @@
   },
   {
     "name": "Bollywood HD",
-    "logo": "https://vagontv.github.io/vagon/ic_bollywood.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_bollywood.png",
     "playlist": [
       "https://sc.id-tv.kz/bollywood_hd_34_35.m3u8"
     ],
@@ -3717,7 +3717,7 @@
   },
   {
     "name": "Shot TV",
-    "logo": "https://vagontv.github.io/vagon/ic_shottv.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_shottv.png",
     "playlist": [
       "http://37.17.14.149:8905/play/a00m"
     ],
