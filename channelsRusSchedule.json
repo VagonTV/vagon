@@ -1,7 +1,7 @@
 [
   {
     "name": "Первый канал HD",
-    "logo": "https://i.imgur.com/iW5vhkb.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "playlist": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
       "https://nsk19.peers.tv/streaming/1kanal/126/variable.m3u8?",
@@ -32,7 +32,7 @@
   },
   {
     "name": "Первый канал (+1)",
-    "logo": "https://i.imgur.com/iW5vhkb.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "playlist": [
       "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2"
     ],
@@ -60,7 +60,7 @@
   },
   {
     "name": "Первый канал (+3)",
-    "logo": "https://i.imgur.com/iW5vhkb.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "playlist": [
       "http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2"
     ],
@@ -88,7 +88,7 @@
   },
   {
     "name": "Первый канал (+4)",
-    "logo": "https://i.imgur.com/iW5vhkb.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "playlist": [
       "http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2"
     ],
@@ -116,7 +116,7 @@
   },
   {
     "name": "Первый канал (+5)",
-    "logo": "https://i.imgur.com/iW5vhkb.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "playlist": [
       "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2"
     ],
@@ -144,7 +144,7 @@
   },
   {
     "name": "Первый канал (+6)",
-    "logo": "https://i.imgur.com/iW5vhkb.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "playlist": [
       "http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2"
     ],
@@ -172,7 +172,7 @@
   },
   {
     "name": "Первый канал (+8)",
-    "logo": "https://i.imgur.com/iW5vhkb.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "playlist": [
       "http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2"
     ],
@@ -200,7 +200,7 @@
   },
   {
     "name": "Россия 1 HD",
-    "logo": "https://i.imgur.com/9Z0ivs4.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
     "playlist": [
       "https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8"
     ],
@@ -228,7 +228,7 @@
   },
   {
     "name": "Россия 1 (+1)",
-    "logo": "http://epg.it999.ru/img/711.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
     "playlist": [
       "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2"
     ],
@@ -256,7 +256,7 @@
   },
   {
     "name": "Россия 1 (+2)",
-    "logo": "http://epg.it999.ru/img/711.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
     "playlist": [
       "http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2",
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2"
@@ -285,7 +285,7 @@
   },
   {
     "name": "Россия 1 (+3)",
-    "logo": "http://epg.it999.ru/img/711.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
     "playlist": [
       "http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2"
     ],
@@ -313,7 +313,7 @@
   },
   {
     "name": "Россия 1 (+4)",
-    "logo": "http://epg.it999.ru/img/711.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8?version=2"
     ],
@@ -341,7 +341,7 @@
   },
   {
     "name": "Россия 1 (+5)",
-    "logo": "http://epg.it999.ru/img/711.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
     "playlist": [
       "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2"
     ],
@@ -369,7 +369,7 @@
   },
   {
     "name": "Россия 1 (+6)",
-    "logo": "http://epg.it999.ru/img/711.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8?version=2"
     ],
@@ -397,7 +397,7 @@
   },
   {
     "name": "Россия 1 (+8)",
-    "logo": "http://epg.it999.ru/img/711.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
     "playlist": [
       "http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8"
     ],
@@ -425,7 +425,7 @@
   },
   {
     "name": "Рен ТВ HD",
-    "logo": "https://iptvx.one/icn/rentv.png",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_rentv.png",
     "playlist": [
       "http://sc.id-tv.kz/RenTV_36_37.m3u8"
     ],
