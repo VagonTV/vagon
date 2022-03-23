@@ -3184,12 +3184,12 @@
     }
   },
   {
-    "name": "Istoriya TV",
+    "name": "История ТВ",
     "logo": "https://vagontv.github.io/vagon/logo/ic_istoriya.png",
     "playlist": [
       "http://ott-cdn.ucom.am/s40/index.m3u8"
     ],
-    "scheduleName": "",
+    "scheduleName": "Education",
     "geo": 0,
     "is_top": false,
     "category": null,
@@ -3268,7 +3268,7 @@
     }
   },
   {
-    "name": "Mama TV",
+    "name": "Мама TV",
     "logo": "https://vagontv.github.io/vagon/logo/ic_mamatv.png",
     "playlist": [
       "http://ott-cdn.ucom.am/s77/index.m3u8"
@@ -3276,7 +3276,7 @@
     "scheduleName": "mama",
     "geo": 0,
     "is_top": false,
-    "category": null,
+    "category": "Education",
     "languages": [
       {
         "code": "rus",
@@ -4035,7 +4035,7 @@
     "scheduleName": "viasat-history",
     "geo": 0,
     "is_top": false,
-    "category": "History",
+    "category": "Education",
     "languages": [
       {
         "code": "rus",
@@ -4542,7 +4542,7 @@
     "scheduleName": "zagorodny",
     "geo": 0,
     "is_top": false,
-    "category": null,
+    "category": "Education",
     "languages": [
       {
         "code": "rus",
@@ -4570,7 +4570,7 @@
     "scheduleName": "tonus-tv",
     "geo": 0,
     "is_top": false,
-    "category": null,
+    "category": "Education",
     "languages": [
       {
         "code": "rus",
@@ -4598,7 +4598,7 @@
     "scheduleName": "zootv",
     "geo": 0,
     "is_top": false,
-    "category": null,
+    "category": "Education",
     "languages": [
       {
         "code": "rus",
@@ -6296,7 +6296,7 @@
     "scheduleName": "moya-planeta",
     "geo": 0,
     "is_top": false,
-    "category": null,
+    "category": "Education",
     "languages": [
       {
         "code": "rus",
