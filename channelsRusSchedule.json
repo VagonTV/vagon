@@ -1499,7 +1499,7 @@
     "name": "RU TV",
     "logo": "https://vagontv.github.io/vagon/logo/ic_rutv.png",
     "playlist": [
-      "https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8"
+      "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8"
     ],
     "scheduleName": "ru-tv",
     "geo": 0,
@@ -2009,7 +2009,35 @@
     "scheduleName": "kinomiks",
     "geo": 0,
     "is_top": true,
-    "category": null,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "Кино ТВ",
+    "logo": "https://iptvxpix.ml/kino-tv.png",
+    "playlist": [
+      "http://109.200.130.124:7007/play/a00f"
+    ],
+    "scheduleName": "kino-tv",
+    "geo": 0,
+    "is_top": true,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",
@@ -3774,12 +3802,12 @@
     }
   },
   {
-    "name": "Star Cinema HD",
-    "logo": "https://vagontv.github.io/vagon/logo/ic_star_cinema.png",
+    "name": "Cinema",
+    "logo": "https://iptvxpix.ml/cinema.png",
     "playlist": [
-      "http://95.67.12.94:9001"
+      "https://sc.id-tv.kz/Cinema_34_35.m3u8"
     ],
-    "scheduleName": "star-cinema",
+    "scheduleName": "cinema-ru",
     "geo": 0,
     "is_top": false,
     "category": "Movies",
@@ -4114,7 +4142,7 @@
     "name": "Матч ТВ! Игра HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_matchtv_igra.png",
     "playlist": [
-      "http://185.228.135.48:8080/tv_match_igra_hd/index.m3u8"
+      "http://46.174.83.66/Match_Igra/index.m3u8?em9uYS1pcHR2LnJ1"
     ],
     "scheduleName": "match-igra",
     "geo": 0,
@@ -4394,6 +4422,7 @@
     "name": "VIP Comedy",
     "logo": "https://vagontv.github.io/vagon/logo/ic_vip_comedy.png",
     "playlist": [
+      "https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8",
       "http://iptv.prosto.tv:7000/ch44/video.m3u8"
     ],
     "scheduleName": "vip-comedy",
@@ -4422,6 +4451,7 @@
     "name": "VIP Megahit",
     "logo": "https://vagontv.github.io/vagon/logo/ic_vip_megahit.png",
     "playlist": [
+      "https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8",
       "http://iptv.prosto.tv:7000/ch43/video.m3u8"
     ],
     "scheduleName": "vip-megahit",
@@ -4450,6 +4480,7 @@
     "name": "VIP Premiere",
     "logo": "https://vagontv.github.io/vagon/logo/ic_vip_premier.png",
     "playlist": [
+      "https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8",
       "http://iptv.prosto.tv:7000/ch45/video.m3u8"
     ],
     "scheduleName": "vip-premiere",
@@ -5499,7 +5530,7 @@
     "name": "Киносвидание HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_kinocomedya.png",
     "playlist": [
-      "http://78.58.133.179:28000/play/a068/index.m3u8"
+      "https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8"
     ],
     "scheduleName": "kinosvidanie",
     "geo": 0,
@@ -5527,7 +5558,7 @@
     "name": "Киносерия HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_kinoseria.png",
     "playlist": [
-      "hhttp://193.33.88.172/mnogo-tv/tracks-v1a1/mono.m3u8"
+      "https://sc.id-tv.kz:443/Kinoseriya_hd_34_35.m3u8"
     ],
     "scheduleName": "kinoseria",
     "geo": 0,
@@ -5584,9 +5615,38 @@
     "name": "Кинохит HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_kinohit.png",
     "playlist": [
+      "https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8",
       "https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8"
     ],
     "scheduleName": "kinoxit",
+    "geo": 0,
+    "is_top": false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "Киноужас",
+    "logo": "https://iptvxpix.ml/kinouzhas.png",
+    "playlist": [
+      "https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8"
+    ],
+    "scheduleName": "kinouzhas",
     "geo": 0,
     "is_top": false,
     "category": "Movies",
@@ -6287,12 +6347,12 @@
     "name": "Мужское кино HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_myjskoe_kino.png",
     "playlist": [
-      "http://212.76.29.26:80/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD.m3u8"
+      "https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8"
     ],
     "scheduleName": "muzhskoe-kino",
     "geo": 0,
     "is_top": false,
-    "category": null,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",
@@ -6537,43 +6597,16 @@
     }
   },
   {
-    "name": "Новое",
+    "name": "Новое ТВ",
     "logo": null,
     "playlist": [
-      "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8"
-    ],
-    "scheduleName": "",
-    "geo": 0,
-    "is_top": false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Новое Телевидение",
-    "logo": null,
-    "playlist": [
+      "https://sc.id-tv.kz/NovoeTelevidenie_34_35.m3u8",
       "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8"
     ],
     "scheduleName": "novoe-televidenie",
     "geo": 0,
     "is_top": false,
-    "category": null,
+    "category": "Music",
     "languages": [
       {
         "code": "rus",
