@@ -1807,7 +1807,7 @@
     "name": "Авто Плюс",
     "logo": null,
     "playlist": [
-      "http://31.173.178.110:8104/play/a08o/index.m3u8"
+      "http://persik.by/stream/7504/377885/311.m3u8"
     ],
     "scheduleName": "avto-plus",
     "geo": 0,
@@ -1920,7 +1920,7 @@
     "name": "Киномикс HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_kinomix.png",
     "playlist": [
-      "http://78.58.133.179:28000/play/a070/index.m3u8"
+      "http://persik.by/stream/7504/377885/608.m3u8"
     ],
     "scheduleName": "kinomiks",
     "geo": 0,
@@ -2258,7 +2258,7 @@
     "name": "Русский Роман",
     "logo": "https://vagontv.github.io/vagon/logo/ic_russian_roman.png",
     "playlist": [
-      "http://mfe02.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd"
+      "http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8"
     ],
     "scheduleName": "russky-roman",
     "geo": 0,
@@ -2314,7 +2314,7 @@
     "name": "Русский Детектив",
     "logo": "https://vagontv.github.io/vagon/logo/ic_russian_detective.png",
     "playlist": [
-      "http://31.130.20.194:81/udp/239.1.11.12:1234?zi/"
+      "http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8"
     ],
     "scheduleName": "russky-detektiv",
     "geo": 0,
@@ -5648,7 +5648,7 @@
     "name": "Комедийное HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_comedyinoe.png",
     "playlist": [
-      "http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8"
+      "http://myott.top/stream/1VGPHYLZTH/74.m3u8"
     ],
     "scheduleName": "kinopokaz-hd2",
     "geo": 0,
@@ -6436,7 +6436,7 @@
     "name": "Наше новое кино HD",
     "logo": null,
     "playlist": [
-      "http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8"
+      "http://persik.by/stream/7504/377885/260.m3u8"
     ],
     "scheduleName": "nashe-novoe-kino",
     "geo": 0,
