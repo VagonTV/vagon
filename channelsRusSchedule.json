@@ -4002,6 +4002,7 @@
     "name": "Матч ТВ! Премьер HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_matchtv_premier.png",
     "playlist": [
+      "http://persik.by/stream/7504/377885/284.m3u8",
       "http://213.226.137.133:81/tl/l74/mpegts"
     ],
     "scheduleName": "match-premier",
@@ -4030,7 +4031,7 @@
     "name": "Матч ТВ! Боец",
     "logo": "https://vagontv.github.io/vagon/logo/ic_matchtv_boec.png",
     "playlist": [
-      "http://185.228.135.48:8080/tv_match_boets_sd/index.m3u8"
+      "http://185.184.233.180:5000/udp/225.1.2.156:1234"
     ],
     "scheduleName": "match-boets",
     "geo": 0,
@@ -4170,7 +4171,8 @@
     "name": "Футбол 1 HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_footbal_1.png",
     "playlist": [
-      "https://95-213-224-187.livesports24.online/uafootballua1.m3u8"
+      "http://213.226.137.133:81/tl/l74/mpegts",
+      "http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass"
     ],
     "scheduleName": "match-football1",
     "geo": 0,
@@ -4198,7 +4200,8 @@
     "name": "Футбол 2 HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_footbal_2.png",
     "playlist": [
-      "https://95-213-224-187.livesports24.online/fooootball2.m3u8"
+      "http://persik.by/stream/7504/377885/10267.m3u8",
+      "http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass"
     ],
     "scheduleName": "match-football2",
     "geo": 0,
@@ -4226,7 +4229,8 @@
     "name": "Футбол 3 HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_footbal_3.png",
     "playlist": [
-      "https://95-213-224-176.livesports24.online/football3ua.m3u8"
+      "http://persik.by/stream/7504/377885/10267.m3u8",
+      "http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass"
     ],
     "scheduleName": "match-football3",
     "geo": 0,
