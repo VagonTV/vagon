@@ -3296,15 +3296,16 @@
     }
   },
   {
-    "name": "MTVmix (Уфа)",
-    "logo": "http://mtvmix.ru/images/2018/Tsvetnoy_logo_MTV_Mix_16.png",
+    "name": "MTV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2b/MTV_80s_prototype_1.svg/revision/latest/scale-to-width-down/446?cb=20210507092136",
     "playlist": [
-      "http://81.30.182.82:18092/hls/live.m3u8"
+      "http://mfe02.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd",
+      "http://mfe01.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd"
     ],
-    "scheduleName": "",
+    "scheduleName": "mtv-russia",
     "geo": 0,
     "is_top": false,
-    "category": "Local",
+    "category": "Music",
     "languages": [
       {
         "code": "rus",
