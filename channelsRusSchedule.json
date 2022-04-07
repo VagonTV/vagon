@@ -1920,6 +1920,7 @@
     "name": "Киномикс HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_kinomix.png",
     "playlist": [
+      "https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8",
       "http://persik.by/stream/7504/377885/608.m3u8"
     ],
     "scheduleName": "kinomiks",
