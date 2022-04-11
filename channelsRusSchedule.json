@@ -3948,6 +3948,7 @@
     "name": "Viasat Nature",
     "logo": "https://iptvxpix.ml/viasat-nature.png",
     "playlist": [
+      "https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8",
       "http://91.185.3.218:4000/play/304"
     ],
     "scheduleName": "viasat-nature",
