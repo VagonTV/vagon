@@ -3945,6 +3945,34 @@
     }
   },
   {
+    "name": "Viasat Nature",
+    "logo": "https://iptvxpix.ml/viasat-nature.png",
+    "playlist": [
+      "http://91.185.3.218:4000/play/304"
+    ],
+    "scheduleName": "viasat-nature",
+    "geo": 0,
+    "is_top": false,
+    "category": "Entertainment",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+  },
+  {
     "name": "Viasat History",
     "logo": "https://vagontv.github.io/vagon/logo/ic_viasat_history.png",
     "playlist": [
