@@ -1835,7 +1835,7 @@
     "name": "Индийское кино",
     "logo": "https://vagontv.github.io/vagon/logo/ic_indikino.png",
     "playlist": [
-      "http://46.174.83.66/Indiiskoe_kino/mpegts"
+      "http://46.174.83.66/Indiiskoe_kino/tracks-v1a1/mono.m3u8"
     ],
     "scheduleName": "indiyskoe-kino",
     "geo": 0,
@@ -3466,34 +3466,6 @@
     }
   },
   {
-    "name": "Ocean TV",
-    "logo": "https://vagontv.github.io/vagon/logo/ic_oceantv.png",
-    "playlist": [
-      "http://91.192.168.242:9091"
-    ],
-    "scheduleName": "ocean-tv",
-    "geo": 0,
-    "is_top": false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Охотник и рыбалов",
     "logo": "https://vagontv.github.io/vagon/logo/ic_oxotnik_i_rybalov.png",
     "playlist": [
@@ -3977,7 +3949,7 @@
     "name": "Viasat History",
     "logo": "https://vagontv.github.io/vagon/logo/ic_viasat_history.png",
     "playlist": [
-      "http://ott-cdn.ucom.am/s81/index.m3u8"
+      "http://tv.streams.baikal-telecom.net/Viasat_History/tracks-v1a1/mono.m3u8"
     ],
     "scheduleName": "viasat-history",
     "geo": 0,
@@ -5009,7 +4981,7 @@
     "name": "Большая Азия",
     "logo": "https://vagontv.github.io/vagon/logo/ic_bolshay_asia.png",
     "playlist": [
-      "https://strm.yandex.ru/kal/bigasia/bigasia0.m3u8"
+      "https://nsk12.peers.tv/streaming/bolshaya_aziya/16/h1080/playlist.m3u8?"
     ],
     "scheduleName": "bolshaya-azia",
     "geo": 0,
