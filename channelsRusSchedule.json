@@ -1954,7 +1954,9 @@
     "name": "Кино ТВ",
     "logo": "https://iptvxpix.ml/kino-tv.png",
     "playlist": [
-      "http://109.200.130.124:7007/play/a00f"
+      "http://live-1.otcnet.ru/kinotvsd/mono.m3u8",
+      "http://50.7.188.186/Kino_TV/mono.m3u8",
+      "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kino_TV_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImh3aWQiOiJlMGRhMmU5MDY4YzU0MDA3NWM5ZTA4MWZjODg5YTQ2ZGY2MjU0ODgyYTFmZWQzZmM0NWE0NDM0NDgwZDU5MjhiIiwic2Vzc2lvbl9pZCI6IjhmODgzNTMwNWU3NmYzNWY4NGZhMWZiNmEzZDY3Y2M1IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.5cDws_eYqY5-hvaHSgUreoOf8C2M3oZWak_c15R6jdM"
     ],
     "scheduleName": "kino-tv",
     "geo": 0,
@@ -3925,8 +3927,7 @@
     "name": "Viasat Nature",
     "logo": "https://iptvxpix.ml/viasat-nature.png",
     "playlist": [
-      "https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8",
-      "http://91.185.3.218:4000/play/304"
+      "https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8"
     ],
     "scheduleName": "viasat-nature",
     "geo": 0,
@@ -3954,7 +3955,8 @@
     "name": "Viasat History",
     "logo": "https://vagontv.github.io/vagon/logo/ic_viasat_history.png",
     "playlist": [
-      "http://tv.streams.baikal-telecom.net/Viasat_History/tracks-v1a1/mono.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8",
+      "http://217.71.224.86:8148"
     ],
     "scheduleName": "viasat-history",
     "geo": 0,
@@ -4179,9 +4181,8 @@
     "name": "Футбол 1 HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_footbal_1.png",
     "playlist": [
-      "http://persik.by/stream/7504/377885/346.m3u8",
-      "http://91.210.251.17:4866/udp/239.0.1.38:4000",
-      "http://91.210.251.17:4866/udp/239.0.20.2:4000"
+      "http://foreign-default.persik.by:82/live/Ch39/index.m3u8",
+      "http://65.108.9.39:8060/matc!futbol1hd/index.m3u8"
     ],
     "scheduleName": "match-football1",
     "geo": 0,
@@ -4209,9 +4210,7 @@
     "name": "Футбол 2 HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_footbal_2.png",
     "playlist": [
-      "http://persik.by/stream/7504/377885/10217.m3u8",
-      "http://persik.by/stream/7504/377885/10267.m3u8",
-      "http://91.210.251.17:4866/udp/239.0.1.109:4000"
+      "http://foreign-default.persik.by:82/live/Ch217/index.m3u8"
     ],
     "scheduleName": "match-football2",
     "geo": 0,
@@ -4324,7 +4323,7 @@
     "name": "Viasat Sport East",
     "logo": "https://vagontv.github.io/vagon/logo/ic_viasat_sport_east.png",
     "playlist": [
-      "http://82.200.82.162:4022/udp/239.54.5.94:1234"
+      "https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -4352,6 +4351,7 @@
     "name": "VIP Comedy",
     "logo": "https://vagontv.github.io/vagon/logo/ic_vip_comedy.png",
     "playlist": [
+      "https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8",
       "https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8",
       "http://iptv.prosto.tv:7000/ch44/video.m3u8"
     ],
@@ -4381,8 +4381,9 @@
     "name": "VIP Megahit",
     "logo": "https://vagontv.github.io/vagon/logo/ic_vip_megahit.png",
     "playlist": [
-      "https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8",
-      "http://iptv.prosto.tv:7000/ch43/video.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8",
+      "http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_megahit",
+      "https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8"
     ],
     "scheduleName": "vip-megahit",
     "geo": 0,
@@ -4523,7 +4524,7 @@
     "name": "Zoo Парк",
     "logo": "https://vagontv.github.io/vagon/logo/ic_zoopark.png",
     "playlist": [
-      "http://46.174.83.66/Zoopark/mpegts"
+      "http://146.158.0.56/Zoopark/mono.m3u8"
     ],
     "scheduleName": "zootv",
     "geo": 0,
@@ -5490,9 +5491,9 @@
     "name": "Кинохит HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_kinohit.png",
     "playlist": [
+      "http://foreign-default.persik.by:82/live/Ch59/index.m3u8",
       "https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8",
-      "http://persik.by/stream/7504/377885/213.m3u8",
-      "https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8"
+      "http://st1.astra-uk.ru:81/fd3504e71b0da4b572c6942d915a1f5d/playlist.m3u8"
     ],
     "scheduleName": "kinoxit",
     "geo": 0,
@@ -5633,7 +5634,7 @@
     "name": "Красная линия",
     "logo": "https://vagontv.github.io/vagon/logo/ic_krasnya_linia.png",
     "playlist": [
-      "https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8"
+      "http://217.71.224.86:8256"
     ],
     "scheduleName": "krasnaya-linia",
     "geo": 0,
@@ -6644,34 +6645,6 @@
     }
   },
   {
-    "name": "О2ТВ",
-    "logo": null,
-    "playlist": [
-      "https://strm.yandex.ru/kal/o2/o20.m3u8"
-    ],
-    "scheduleName": "o2tv",
-    "geo": 0,
-    "is_top": false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "o2tv",
-      "name": "О2ТВ",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Общественное Независимое Телевидение",
     "logo": null,
     "playlist": [
@@ -6731,8 +6704,7 @@
     "name": "Остросюжетное FHD",
     "logo": null,
     "playlist": [
-      "http://37.187.28.95:2022/ostrosygetnoe/mpegts",
-      ""
+      "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ostrosuzhetnoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImh3aWQiOiJlMGRhMmU5MDY4YzU0MDA3NWM5ZTA4MWZjODg5YTQ2ZGY2MjU0ODgyYTFmZWQzZmM0NWE0NDM0NDgwZDU5MjhiIiwic2Vzc2lvbl9pZCI6IjhmODgzNTMwNWU3NmYzNWY4NGZhMWZiNmEzZDY3Y2M1IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.5cDws_eYqY5-hvaHSgUreoOf8C2M3oZWak_c15R6jdM"
     ],
     "scheduleName": "ostrosiuzhetnoe-hd",
     "geo": 0,
@@ -6760,7 +6732,7 @@
     "name": "Остросюжетное HD",
     "logo": null,
     "playlist": [
-      "https://xx001.vivat.live/t-1.0f6f.d/sd/00535/2m/index.m3u8"
+      "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ostrosuzhetnoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImh3aWQiOiJlMGRhMmU5MDY4YzU0MDA3NWM5ZTA4MWZjODg5YTQ2ZGY2MjU0ODgyYTFmZWQzZmM0NWE0NDM0NDgwZDU5MjhiIiwic2Vzc2lvbl9pZCI6IjhmODgzNTMwNWU3NmYzNWY4NGZhMWZiNmEzZDY3Y2M1IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.5cDws_eYqY5-hvaHSgUreoOf8C2M3oZWak_c15R6jdM"
     ],
     "scheduleName": "ostrosiuzhetnoe-hd",
     "geo": 0,
@@ -7211,9 +7183,7 @@
     "name": "Россия РТР",
     "logo": null,
     "playlist": [
-      "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8",
-      "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8",
-      "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8"
+      "https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -7609,7 +7579,7 @@
     "name": "Татарстан-24",
     "logo": "http://www.zelenodolsk.ru/share/images/base/7/170_157352.jpg",
     "playlist": [
-      "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8"
+      "https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8"
     ],
     "scheduleName": "tatarstan24",
     "geo": 0,
@@ -7805,7 +7775,7 @@
     "name": "Тольятти 24",
     "logo": "http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg",
     "playlist": [
-      "http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8"
+      "https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8"
     ],
     "scheduleName": "tolyatti24",
     "geo": 0,
