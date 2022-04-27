@@ -5,7 +5,6 @@
     "playlist": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
       "https://nsk19.peers.tv/streaming/1kanal/126/variable.m3u8?",
-      "http://78.58.133.179:28000/play/a002/index.m3u8",
       "http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2"
     ],
     "scheduleName": "pervy",
@@ -429,7 +428,7 @@
     "name": "Рен ТВ HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_rentv.png",
     "playlist": [
-      "http://sc.id-tv.kz/RenTV_36_37.m3u8"
+      "http://194.113.234.110:4011"
     ],
     "scheduleName": "rentv",
     "geo": 0,
@@ -965,7 +964,10 @@
     "name": "TV1000 World Kino",
     "logo": "https://vagontv.github.io/vagon/logo/ic_tv1000.png",
     "playlist": [
-      "https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8",
+      "https://sc.id-tv.kz:443/TV1000_34_35.m3u8",
+      "http://50.7.188.186/TV1000_HD/mono.m3u8",
+      "http://50.7.188.186/TV1000/mono.m3u8"
     ],
     "scheduleName": "tv1000-worldkino",
     "geo": 0,
@@ -993,7 +995,8 @@
     "name": "TV1000 Action",
     "logo": "https://vagontv.github.io/vagon/logo/ic_tv1000_action.png",
     "playlist": [
-      "https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8",
+      "http://50.7.188.186/TV1000ActionHD/mono.m3u8"
     ],
     "scheduleName": "tv1000-action",
     "geo": 0,
@@ -1021,7 +1024,8 @@
     "name": "TV1000 Русское кино",
     "logo": "https://vagontv.github.io/vagon/logo/ic_tv1000_russian_kino.png",
     "playlist": [
-      "http://dmitry-tv.ml/hls/CH_TV1000RUSSKOEKINOHD.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8",
+      "https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8"
     ],
     "scheduleName": "tv1000-russkoe-kino",
     "geo": 0,
@@ -1443,7 +1447,8 @@
     "name": "Bridge TV",
     "logo": "https://vagontv.github.io/vagon/logo/ic_bridgetv.png",
     "playlist": [
-      "http://91.210.251.17:4866/udp/239.0.1.102:4000"
+      "http://foreign-default.persik.by:82/live/Ch2/index.m3u8",
+      "http://217.71.224.86:8170"
     ],
     "scheduleName": "bridge-tv",
     "geo": 0,
@@ -1779,7 +1784,8 @@
     "name": "Родное Кино",
     "logo": "https://vagontv.github.io/vagon/logo/ic_rodnoe_kino.png",
     "playlist": [
-      "http://193.33.88.172/nashe-kino/tracks-v1a1/mono.m3u8"
+      "https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8",
+      "http://50.7.92.90/Nashe_kino/mono.m3u8"
     ],
     "scheduleName": "rodnoe-kino",
     "geo": 0,
@@ -1807,7 +1813,8 @@
     "name": "Авто Плюс",
     "logo": null,
     "playlist": [
-      "http://persik.by/stream/7504/377885/311.m3u8"
+      "http://foreign-default.persik.by:82/live/Ch38/index.m3u8",
+      "http://st1.astra-uk.ru:81/45b46ea77a890502df74ad55d82b8e4a/playlist.m3u8"
     ],
     "scheduleName": "avto-plus",
     "geo": 0,
@@ -1863,7 +1870,7 @@
     "name": "1HD Music Television",
     "logo": "https://vagontv.github.io/vagon/logo/ic_1hd_music.png",
     "playlist": [
-      "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8"
+      "http://217.71.224.86:8061"
     ],
     "scheduleName": "1hd",
     "geo": 0,
@@ -1891,8 +1898,7 @@
     "name": "МузСоюз",
     "logo": "https://vagontv.github.io/vagon/logo/ic_muz_souz.png",
     "playlist": [
-      "http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8",
-      "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8"
+      "http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8"
     ],
     "scheduleName": "muzsoyuz",
     "geo": 0,
@@ -1920,8 +1926,7 @@
     "name": "Киномикс HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_kinomix.png",
     "playlist": [
-      "https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8",
-      "http://persik.by/stream/7504/377885/608.m3u8"
+      "https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8"
     ],
     "scheduleName": "kinomiks",
     "geo": 0,
@@ -2287,7 +2292,7 @@
     "name": "Русский Бестселлер",
     "logo": "https://vagontv.github.io/vagon/logo/ic_russian_bestseller.png",
     "playlist": [
-      "http://50.7.231.221:8081/135/index.m3u8?wmsAuthSign=okad"
+      "http://194.113.234.110:4053"
     ],
     "scheduleName": "russky-bestseller",
     "geo": 0,
@@ -2315,7 +2320,8 @@
     "name": "Русский Детектив",
     "logo": "https://vagontv.github.io/vagon/logo/ic_russian_detective.png",
     "playlist": [
-      "http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8"
+      "http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8",
+      "http://194.113.234.110:4061"
     ],
     "scheduleName": "russky-detektiv",
     "geo": 0,
@@ -2343,7 +2349,7 @@
     "name": "Русский Иллюзион",
     "logo": "https://vagontv.github.io/vagon/logo/ic_russian_illusion.png",
     "playlist": [
-      "http://86.57.178.105:10823"
+      "https://sc.id-tv.kz:443/RusIlluzion_3"
     ],
     "scheduleName": "russky-illuzion",
     "geo": 0,
@@ -2989,12 +2995,12 @@
     }
   },
   {
-    "name": "HD Медиа",
-    "logo": "https://iptvx.one/icn/hd-media.png",
+    "name": "Первый космический HD",
+    "logo": "https://iptvxpix.ml/kosmichesky.png",
     "playlist": [
-      "https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8"
+      "http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace"
     ],
-    "scheduleName": "",
+    "scheduleName": "eureka-hd",
     "geo": 0,
     "is_top": false,
     "category": "Entertainment",
@@ -3073,15 +3079,15 @@
     }
   },
   {
-    "name": "Impact TV",
+    "name": "Impact Wrestling",
     "logo": "https://vagontv.github.io/vagon/logo/ic_impacttv.png",
     "playlist": [
-      "http://206.190.141.27:1935/live/impact/playlist.m3u8"
+      "http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/111200"
     ],
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
-    "category": "Religious",
+    "category": "Sport",
     "languages": [
       {
         "code": "rus",
@@ -3300,8 +3306,8 @@
     "name": "MTV",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2b/MTV_80s_prototype_1.svg/revision/latest/scale-to-width-down/446?cb=20210507092136",
     "playlist": [
-      "http://mfe02.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd",
-      "http://mfe01.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd"
+      "http://foreign-default.persik.by:82/live/Ch226/index.m3u8",
+      "http://st1.astra-uk.ru:81/72fb20d7cba8d4ed1b3133b64b85c935/playlist.m3u8"
     ],
     "scheduleName": "mtv-russia",
     "geo": 0,
@@ -3497,8 +3503,6 @@
     "name": "RTД на Русском",
     "logo": "https://vagontv.github.io/vagon/logo/ic_rtd_russian.png",
     "playlist": [
-      "https://rtmp.api.rt.com/hls/rtdru.m3u8",
-      "https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8",
       "https://uiptv.do.am/1ufc/300663722/playlist.m3u8"
     ],
     "scheduleName": "rtd-ru",
@@ -3608,10 +3612,11 @@
     }
   },
   {
-    "name": "Sarafan TV",
+    "name": "Сарафан ТВ",
     "logo": "https://vagontv.github.io/vagon/logo/ic_saragan.png",
     "playlist": [
-      "http://86.57.178.105:10822"
+      "http://86.57.178.105:10822",
+      "http://st1.astra-uk.ru:81/e4eb5830bf416d1b49e2996a7868d14d/playlist.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -3639,7 +3644,7 @@
     "name": "Shot TV",
     "logo": "https://vagontv.github.io/vagon/logo/ic_shottv.png",
     "playlist": [
-      "http://91.210.251.17:4866/udp/239.0.1.118:4000"
+      "http://foreign-default.persik.by:82/live/Ch23/index.m3u8"
     ],
     "scheduleName": "shot-tv",
     "geo": 0,
@@ -3860,10 +3865,10 @@
     }
   },
   {
-    "name": "TVM Channel",
+    "name": "TVM3 Channel",
     "logo": "https://vagontv.github.io/vagon/logo/ic_tvm.png",
     "playlist": [
-      "https://strm.yandex.ru/kal/tvm_supres/tvm_supres0.m3u8"
+      "https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8"
     ],
     "scheduleName": "tvmchannel",
     "geo": 0,
@@ -4005,8 +4010,7 @@
     "name": "Матч ТВ! Премьер HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_matchtv_premier.png",
     "playlist": [
-      "http://persik.by/stream/7504/377885/284.m3u8",
-      "http://91.210.251.17:4866/udp/239.0.1.56:4000"
+      "http://foreign-default.persik.by:82/live/Ch36/index.m3u8"
     ],
     "scheduleName": "match-premier",
     "geo": 0,
@@ -4062,9 +4066,7 @@
     "name": "Матч ТВ! Игра HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_matchtv_igra.png",
     "playlist": [
-      "http://persik.by/stream/7504/377885/10270.m3u8",
-      "http://91.210.251.17:4866/udp/239.0.20.8:4000",
-      "http://91.210.251.17:4866/udp/239.0.1.124:4000",
+      "http://50.7.188.186/Match_Igra/mono.m3u8",
       "http://146.158.0.56/NANOTV/mono.m3u8"
     ],
     "scheduleName": "match-igra",
@@ -5261,37 +5263,10 @@
     "name": "Дикая Рыбалка HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_dikaya_rybalka.png",
     "playlist": [
-      "http://live.m2.tv/hls2/stream.m3u8"
+      "http://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD/1080p.m3u8",
+      "http://134.0.113.120:8000/play/dikayaribalkahd/index.m3u8"
     ],
     "scheduleName": "dikaya-rybalka-hd",
-    "geo": 0,
-    "is_top": false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Дисконт",
-    "logo": "https://vagontv.github.io/vagon/logo/ic_discounttv.png",
-    "playlist": [
-      "https://tvshops.bonus-tv.ru/cdn/discount/tracks-v1a1/index.m3u8"
-    ],
-    "scheduleName": "ttc",
     "geo": 0,
     "is_top": false,
     "category": null,
@@ -5338,34 +5313,6 @@
     "tvg": {
       "id": "evrasia",
       "name": "Евразия",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Игра FHD",
-    "logo": null,
-    "playlist": [
-      "https://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8"
-    ],
-    "scheduleName": "",
-    "geo": 0,
-    "is_top": false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
@@ -5515,7 +5462,7 @@
     "logo": "https://vagontv.github.io/vagon/logo/ic_kinosemia.png",
     "playlist": [
       "https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8",
-      "http://78.58.133.179:28000/play/a067/index.m3u8"
+      "http://foreign-default.persik.by:82/live/Ch60/index.m3u8"
     ],
     "scheduleName": "kinosemiya",
     "geo": 0,
@@ -6163,8 +6110,7 @@
     "name": "Москва 24",
     "logo": "https://vagontv.github.io/vagon/logo/ic_moskva24.png",
     "playlist": [
-      "http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_2.m3u8",
-      "https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/playlist.m3u8"
+      "http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8"
     ],
     "scheduleName": "moskva-24",
     "geo": 0,
@@ -6446,8 +6392,8 @@
     "name": "Наше новое кино HD",
     "logo": null,
     "playlist": [
-      "http://persik.by/stream/7504/377885/260.m3u8",
-      "http://91.210.251.17:4866/udp/239.0.1.31:4000"
+      "http://foreign-default.persik.by:82/live/Ch12/index.m3u8",
+      "http://st1.astra-uk.ru:81/2c3ae8d5ff31d21cb37109d8cc1b5c21/playlist.m3u8"
     ],
     "scheduleName": "nashe-novoe-kino",
     "geo": 0,
@@ -6839,10 +6785,10 @@
     }
   },
   {
-    "name": "ОТВ",
+    "name": "ОТВ HD (Екатеринбург)",
     "logo": null,
     "playlist": [
-      "http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8"
+      "http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -6898,7 +6844,7 @@
     "name": "ОТС",
     "logo": null,
     "playlist": [
-      "https://strm.yandex.ru/kal/otstv/otstv0.m3u8"
+      "http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8"
     ],
     "scheduleName": "ots",
     "geo": 0,
@@ -6926,7 +6872,7 @@
     "name": "Охота и Рыбалка",
     "logo": null,
     "playlist": [
-      "http://185.74.5.142:8080/dars5/mpegts"
+      "https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8"
     ],
     "scheduleName": "oxota-i-rybalka",
     "geo": 0,
@@ -7237,7 +7183,7 @@
     "name": "Россия 1 (Калуга)",
     "logo": null,
     "playlist": [
-      "http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8"
+      "http://foreign-default.persik.by:82/live/Ch41/index.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -7434,38 +7380,10 @@
     }
   },
   {
-    "name": "Сиеста HD",
-    "logo": null,
-    "playlist": [
-      "http://1hdru-hls-otcnet.cdnvideo.ru/siesta/tracks-v1a1/index.m3u8"
-    ],
-    "scheduleName": "siestahd",
-    "geo": 0,
-    "is_top": false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Смайлик HD",
     "logo": "http://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png",
     "playlist": [
-      "http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8"
+      "http://livetv.mylifeisgood.ml/mfolive.m3u8?media=smile"
     ],
     "scheduleName": "smaylik-tv",
     "geo": 0,
@@ -7999,9 +7917,7 @@
     "name": "Шансон-ТВ",
     "logo": "https://www.shanson.tv/image/logo_160120.png",
     "playlist": [
-      "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
-      "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
-      "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
+      "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
     ],
     "scheduleName": "shanson-tv-hb",
     "geo": 0,
@@ -8197,8 +8113,7 @@
     "name": "TLC",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/185px-TLC_Logo.svg.png",
     "playlist": [
-      "https://sc.id-tv.kz/TLCHD_34_35.m3u8",
-      "http://31.173.178.110:8104/play/a0bl/index.m3u8"
+      "https://sc.id-tv.kz/TLCHD_34_35.m3u8"
     ],
     "scheduleName": "tlc",
     "geo": 0,
@@ -8226,8 +8141,7 @@
     "name": "Бобёр",
     "logo": "https://i.ibb.co/XWR71Cr/bober-logo.png",
     "playlist": [
-      "http://109.200.130.124:7006/play/a02g",
-      "http://31.173.178.110:8104/play/a0bo/index.m3u8"
+      "https://sc.id-tv.kz:443/bober_34_35.m3u8"
     ],
     "scheduleName": "bobior",
     "geo": 0,
