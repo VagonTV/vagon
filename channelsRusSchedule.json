@@ -6706,7 +6706,7 @@
     "name": "Остросюжетное FHD",
     "logo": null,
     "playlist": [
-      "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ostrosuzhetnoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImh3aWQiOiJlMGRhMmU5MDY4YzU0MDA3NWM5ZTA4MWZjODg5YTQ2ZGY2MjU0ODgyYTFmZWQzZmM0NWE0NDM0NDgwZDU5MjhiIiwic2Vzc2lvbl9pZCI6IjhmODgzNTMwNWU3NmYzNWY4NGZhMWZiNmEzZDY3Y2M1IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.5cDws_eYqY5-hvaHSgUreoOf8C2M3oZWak_c15R6jdM"
+      "http://50.7.92.90/Ostrosyuzhetnoe_HD/mono.m3u8"
     ],
     "scheduleName": "ostrosiuzhetnoe-hd",
     "geo": 0,
