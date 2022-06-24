@@ -16,6 +16,7 @@
     <script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="30276"></script>
 </head>
 <body>
+<button onclick="clickAd()">CLICK BANNER</button>
 
 <noscript>
     <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
@@ -27,9 +28,11 @@
 </div>
 
 
-
-
-
+<script type="text/javascript">
+	function clickAd(){
+		document.getElementsByTagName('a')[0].click();
+    }
+</script>
 <div id="app">
 </div>
 </body>
