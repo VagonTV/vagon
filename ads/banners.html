@@ -6,26 +6,20 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <title><%= htmlWebpackPlugin.options.title %></title>
-    <script type="text/javascript"
-            src="https://mailonline.github.io/videojs-vast-vpaid/demo/videojs_4/video.js"></script>
+    <script type="text/javascript" src="https://mailonline.github.io/videojs-vast-vpaid/demo/videojs_4/video.js"></script>
     <!-- VideoJs.vast.vpaid required scripts-->
-    <script type="text/javascript"
-            src="https://mailonline.github.io/videojs-vast-vpaid/scripts/es5-shim.js"></script>
-    <script type="text/javascript"
-            src="https://mailonline.github.io/videojs-vast-vpaid/scripts/ie8fix.js"></script>
-    <script type="text/javascript"
-            src="https://mailonline.github.io/videojs-vast-vpaid/scripts/videojs_4.vast.vpaid.js"></script>
+    <script type="text/javascript" src="https://mailonline.github.io/videojs-vast-vpaid/scripts/es5-shim.js"></script>
+    <script type="text/javascript" src="https://mailonline.github.io/videojs-vast-vpaid/scripts/ie8fix.js"></script>
+    <script type="text/javascript" src="https://mailonline.github.io/videojs-vast-vpaid/scripts/videojs_4.vast.vpaid.js"></script>
     <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
     <script src="https://cdn.fluidplayer.com/v3/current/fluidplayer.min.js"></script>
     <script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="30276"></script>
 </head>
 <body>
-<button onclick="clickAd()">CLICK NATIVE</button>
-<button onclick="clickBanner()">CLICK BANNER</button>
+<button onclick="clickAd()">CLICK BANNER</button>
 
 <noscript>
-    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without
-        JavaScript enabled. Please enable it to continue.</strong>
+    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
 </noscript>
 <div style="width:100%; height: 100px;">
     <div data-clickadilla-banner="50470"></div>
@@ -40,34 +34,7 @@
 	function clickAd(){
 		document.getElementsByTagName('a')[0].click();
     }
-
-
-
 </script>
-
-<script type="text/javascript">
-    function clickBanner(){
-        var ifrm = document.getElementsByTagName('iframe')[0].src;
-        Android.sendAction(ifrm);
-        return ifrm;
-    }
-
-
-</script>
-
-<script type="text/javascript">
-    function typeRnd(){
-        let oneOrZero = (Math.random()>=0.5)? 1 : 0;
-        if(oneOrZero == 1){
-            Android.sendAction('BANNER',document.getElementsByTagName('iframe')[0].src);
-        }else{
-            Android.sendAction('NATIVE',document.getElementsByTagName('iframe')[0].src);
-        }
-    }
-
-
-</script>
-
 <div id="app">
 </div>
 </body>
