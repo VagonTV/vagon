@@ -36,7 +36,7 @@
     "playlist": [
       "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 1,
     "is_top": false,
@@ -65,7 +65,7 @@
     "playlist": [
       "http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 3,
     "is_top": false,
@@ -94,7 +94,7 @@
     "playlist": [
       "http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 4,
     "is_top": false,
@@ -123,7 +123,7 @@
     "playlist": [
       "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 5,
     "is_top": false,
@@ -152,7 +152,7 @@
     "playlist": [
       "http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 6,
     "is_top": false,
@@ -182,7 +182,7 @@
       "http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2",
       "http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 8,
     "is_top": false,
@@ -212,7 +212,7 @@
       "http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8",
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "rossia1",
     "geo": 0,
     "is_top": true,
@@ -241,7 +241,7 @@
     "playlist": [
       "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 1,
     "is_top": false,
@@ -271,7 +271,7 @@
       "http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2",
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 2,
     "is_top": false,
@@ -300,7 +300,7 @@
     "playlist": [
       "http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 3,
     "is_top": false,
@@ -329,7 +329,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 4,
     "is_top": false,
@@ -358,7 +358,7 @@
     "playlist": [
       "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 5,
     "is_top": false,
@@ -387,7 +387,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 6,
     "is_top": false,
@@ -416,7 +416,7 @@
     "playlist": [
       "http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 8,
     "is_top": false,
@@ -445,7 +445,7 @@
     "playlist": [
       "http://194.113.234.110:4011"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "rentv",
     "geo": 0,
     "is_top": true,
@@ -474,7 +474,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 2,
     "is_top": false,
@@ -503,7 +503,7 @@
     "playlist": [
       "http://sc.id-tv.kz/RenTV_36_37.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 7,
     "is_top": false,
@@ -532,7 +532,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "sts",
     "geo": 0,
     "is_top": false,
@@ -561,7 +561,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 2,
     "is_top": false,
@@ -590,7 +590,7 @@
     "playlist": [
       "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_IRK_STS/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 4,
     "is_top": true,
@@ -620,7 +620,7 @@
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2",
       "https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "piatnica",
     "geo": 0,
     "is_top": false,
@@ -649,7 +649,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 2,
     "is_top": false,
@@ -678,7 +678,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 4,
     "is_top": false,
@@ -707,7 +707,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 7,
     "is_top": false,
@@ -736,7 +736,7 @@
     "playlist": [
       "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kultura",
     "geo": 0,
     "is_top": true,
@@ -765,7 +765,7 @@
     "playlist": [
       "https://sc.id-tv.kz/domkino_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "domkino-premium",
     "geo": 0,
     "is_top": true,
@@ -794,7 +794,7 @@
     "playlist": [
       "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "rossia-24",
     "geo": 0,
     "is_top": true,
@@ -823,7 +823,7 @@
     "playlist": [
       "https://msk3.peers.tv/streaming/vesti/126/vm2w/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 3,
     "is_top": false,
@@ -853,7 +853,7 @@
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2",
       "http://livetv.mylifeisgood.ml/mfolive.m3u8?media=domashnii"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "domashny",
     "geo": 0,
     "is_top": true,
@@ -882,7 +882,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 2,
     "is_top": false,
@@ -911,7 +911,7 @@
     "playlist": [
       "http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 4,
     "is_top": false,
@@ -940,7 +940,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 7,
     "is_top": false,
@@ -971,7 +971,7 @@
       "http://46.174.83.66/Kinokomedia/index.m3u8",
       "http://146.158.0.56/KomediyaTV/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kinokomedia",
     "geo": 0,
     "is_top": true,
@@ -1063,7 +1063,7 @@
       "https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8",
       "https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tv1000-russkoe-kino",
     "geo": 0,
     "is_top": true,
@@ -1092,7 +1092,7 @@
     "playlist": [
       "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "mir",
     "geo": 0,
     "is_top": true,
@@ -1121,7 +1121,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tv3-ru",
     "geo": 0,
     "is_top": true,
@@ -1150,7 +1150,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 2,
     "is_top": false,
@@ -1179,7 +1179,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 4,
     "is_top": false,
@@ -1208,7 +1208,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 7,
     "is_top": false,
@@ -1237,7 +1237,7 @@
     "playlist": [
       "https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "multimania",
     "geo": 0,
     "is_top": true,
@@ -1266,7 +1266,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tnt",
     "geo": 0,
     "is_top": true,
@@ -1295,7 +1295,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 2,
     "is_top": false,
@@ -1324,7 +1324,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 4,
     "is_top": false,
@@ -1353,7 +1353,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 7,
     "is_top": false,
@@ -1382,7 +1382,7 @@
     "playlist": [
       "https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": true,
@@ -1412,7 +1412,7 @@
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2",
       "https://strm.yandex.ru/kal/sibir/sibir0.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "nasha-sibir-4k",
     "geo": 0,
     "is_top": true,
@@ -1442,7 +1442,7 @@
       "https://msk3.peers.tv/streaming/muz_tvnew/126/vh1w/playlist.m3u8?",
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "muztv",
     "geo": 0,
     "is_top": true,
@@ -1471,7 +1471,7 @@
     "playlist": [
       "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ru-tv",
     "geo": 0,
     "is_top": false,
@@ -1501,7 +1501,7 @@
       "http://foreign-default.persik.by:82/live/Ch2/index.m3u8",
       "http://217.71.224.86:8170"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "bridge-tv",
     "geo": 0,
     "is_top": false,
@@ -1530,7 +1530,7 @@
     "playlist": [
       "https://nsk19.peers.tv/streaming/musboxru/16/vh1w/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "russian-musicbox",
     "geo": 0,
     "is_top": false,
@@ -1559,7 +1559,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s18/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "food-network",
     "geo": 0,
     "is_top": true,
@@ -1588,7 +1588,7 @@
     "playlist": [
       "https://nsk19.peers.tv/streaming/ntv/16/gvh1w/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ntv",
     "geo": 0,
     "is_top": true,
@@ -1617,7 +1617,7 @@
     "playlist": [
       "https://msk3.peers.tv/streaming/ntv_hit/16/vh1w/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ntv-xit",
     "geo": 0,
     "is_top": true,
@@ -1646,7 +1646,7 @@
     "playlist": [
       "https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "sony-scifi",
     "geo": 0,
     "is_top": false,
@@ -1675,7 +1675,7 @@
     "playlist": [
       "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 1,
     "is_top": false,
@@ -1704,7 +1704,7 @@
     "playlist": [
       "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 2,
     "is_top": false,
@@ -1733,7 +1733,7 @@
     "playlist": [
       "http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 4,
     "is_top": false,
@@ -1762,7 +1762,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 7,
     "is_top": false,
@@ -1791,7 +1791,7 @@
     "playlist": [
       "https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kinopremiera-hd",
     "geo": 0,
     "is_top": true,
@@ -1820,7 +1820,7 @@
     "playlist": [
       "https://sc.id-tv.kz/dorama_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "dorama",
     "geo": 0,
     "is_top": false,
@@ -1850,7 +1850,7 @@
       "https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8",
       "http://50.7.92.90/Nashe_kino/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "rodnoe-kino",
     "geo": 0,
     "is_top": true,
@@ -1880,7 +1880,7 @@
       "http://foreign-default.persik.by:82/live/Ch38/index.m3u8",
       "http://st1.astra-uk.ru:81/45b46ea77a890502df74ad55d82b8e4a/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "avto-plus",
     "geo": 0,
     "is_top": true,
@@ -1909,7 +1909,7 @@
     "playlist": [
       "http://46.174.83.66/Indiiskoe_kino/tracks-v1a1/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "indiyskoe-kino",
     "geo": 0,
     "is_top": true,
@@ -1938,7 +1938,7 @@
     "playlist": [
       "http://217.71.224.86:8061"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "1hd",
     "geo": 0,
     "is_top": false,
@@ -1967,7 +1967,7 @@
     "playlist": [
       "http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "muzsoyuz",
     "geo": 0,
     "is_top": true,
@@ -1996,7 +1996,7 @@
     "playlist": [
       "https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kinomiks",
     "geo": 0,
     "is_top": true,
@@ -2027,7 +2027,7 @@
       "http://50.7.188.186/Kino_TV/mono.m3u8",
       "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kino_TV_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImh3aWQiOiJlMGRhMmU5MDY4YzU0MDA3NWM5ZTA4MWZjODg5YTQ2ZGY2MjU0ODgyYTFmZWQzZmM0NWE0NDM0NDgwZDU5MjhiIiwic2Vzc2lvbl9pZCI6IjhmODgzNTMwNWU3NmYzNWY4NGZhMWZiNmEzZDY3Y2M1IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.5cDws_eYqY5-hvaHSgUreoOf8C2M3oZWak_c15R6jdM"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kino-tv",
     "geo": 0,
     "is_top": true,
@@ -2056,7 +2056,7 @@
     "playlist": [
       "http://ott.inmart.tv:8081/54/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -2085,7 +2085,7 @@
     "playlist": [
       "http://ott.inmart.tv:8081/19/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -2114,7 +2114,7 @@
     "playlist": [
       "https://online-video.rbc.ru/online/rbctv.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ratnik",
     "geo": 0,
     "is_top": true,
@@ -2143,7 +2143,7 @@
     "playlist": [
       "http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": true,
@@ -2172,7 +2172,7 @@
     "playlist": [
       "https://sc.id-tv.kz/31Kanal.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "31-kanal-chelyabinsk",
     "geo": 0,
     "is_top": false,
@@ -2201,7 +2201,7 @@
     "playlist": [
       "https://msk3.peers.tv/streaming/360tv/126/vh1w/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "360-podmoskovie",
     "geo": 0,
     "is_top": false,
@@ -2231,7 +2231,7 @@
       "https://hls.tv.3angels.ru/stream/HQ.m3u8",
       "https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -2260,7 +2260,7 @@
     "playlist": [
       "http://cdntv.online/high/e39cy5skaw/188.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "lot-47",
     "geo": 0,
     "is_top": false,
@@ -2290,7 +2290,7 @@
       "https://nsk19.peers.tv/streaming/8_kanal/16/gvh1w/playlist.m3u8?",
       "http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "8kanal-ru",
     "geo": 0,
     "is_top": false,
@@ -2319,7 +2319,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s45/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -2348,7 +2348,7 @@
     "playlist": [
       "http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "russky-roman",
     "geo": 0,
     "is_top": false,
@@ -2377,7 +2377,7 @@
     "playlist": [
       "http://194.113.234.110:4053"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "russky-bestseller",
     "geo": 0,
     "is_top": false,
@@ -2407,7 +2407,7 @@
       "http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8",
       "http://194.113.234.110:4061"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "russky-detektiv",
     "geo": 0,
     "is_top": false,
@@ -2436,7 +2436,7 @@
     "playlist": [
       "https://sc.id-tv.kz:443/RusIlluzion_3"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "russky-illuzion",
     "geo": 0,
     "is_top": false,
@@ -2465,7 +2465,7 @@
     "playlist": [
       "https://nsk19.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tvxxi",
     "geo": 0,
     "is_top": false,
@@ -2494,7 +2494,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s33/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -2523,7 +2523,7 @@
     "playlist": [
       "http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -2552,7 +2552,7 @@
     "playlist": [
       "http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "almaty",
     "geo": 0,
     "is_top": false,
@@ -2581,7 +2581,7 @@
     "playlist": [
       "https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "amedia-hit",
     "geo": 0,
     "is_top": false,
@@ -2610,7 +2610,7 @@
     "playlist": [
       "https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "amedia-hit",
     "geo": 0,
     "is_top": false,
@@ -2639,7 +2639,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s64/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -2668,7 +2668,7 @@
     "playlist": [
       "https://sc.id-tv.kz/bollywood_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "bollywood-hd",
     "geo": 0,
     "is_top": false,
@@ -2697,7 +2697,7 @@
     "playlist": [
       "https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tv-brics",
     "geo": 0,
     "is_top": false,
@@ -2726,7 +2726,7 @@
     "playlist": [
       "https://msk3.peers.tv/streaming/karusel/16/g2500/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "karusel",
     "geo": 0,
     "is_top": false,
@@ -2756,7 +2756,7 @@
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2",
       "https://msk3.peers.tv/streaming/disney/126/tvrec/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "disney",
     "geo": 0,
     "is_top": true,
@@ -2785,7 +2785,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 7,
     "is_top": false,
@@ -2814,7 +2814,7 @@
     "playlist": [
       "https://nsk19.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "cartoon-network",
     "geo": 0,
     "is_top": false,
@@ -2843,7 +2843,7 @@
     "playlist": [
       "https://msk3.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "multimania",
     "geo": 0,
     "is_top": false,
@@ -2872,7 +2872,7 @@
     "playlist": [
       "https://sc.id-tv.kz/DaVinci_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "da-vinci",
     "geo": 0,
     "is_top": false,
@@ -2933,7 +2933,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s30/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "fashion-tv",
     "geo": 0,
     "is_top": false,
@@ -2962,7 +2962,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s79/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "fastfunbox-hd",
     "geo": 0,
     "is_top": false,
@@ -2991,7 +2991,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s51/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3020,7 +3020,7 @@
     "playlist": [
       "https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "foxlife",
     "geo": 0,
     "is_top": false,
@@ -3049,7 +3049,7 @@
     "playlist": [
       "http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_4.smil/chunklist_b2628000.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "freshtv",
     "geo": 0,
     "is_top": false,
@@ -3078,7 +3078,7 @@
     "playlist": [
       "http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3107,7 +3107,7 @@
     "playlist": [
       "http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "eureka-hd",
     "geo": 0,
     "is_top": false,
@@ -3136,7 +3136,7 @@
     "playlist": [
       "https://sc.id-tv.kz/hdl_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "hd-life",
     "geo": 0,
     "is_top": false,
@@ -3165,7 +3165,7 @@
     "playlist": [
       "http://rosshow.gcdn.co/streams/1410_290/480n/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "hitv",
     "geo": 0,
     "is_top": false,
@@ -3194,7 +3194,7 @@
     "playlist": [
       "http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/111200"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3223,7 +3223,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s40/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "Education",
     "geo": 0,
     "is_top": false,
@@ -3252,7 +3252,7 @@
     "playlist": [
       "http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "shop24",
     "geo": 0,
     "is_top": false,
@@ -3281,7 +3281,7 @@
     "playlist": [
       "http://nano.teleservice.su:8080/hls/luxury.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "luxury",
     "geo": 0,
     "is_top": false,
@@ -3310,7 +3310,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s77/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "mama",
     "geo": 0,
     "is_top": false,
@@ -3339,7 +3339,7 @@
     "playlist": [
       "https://v2.catcast.tv/content/33816/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3368,7 +3368,7 @@
     "playlist": [
       "http://retc.educom.ru/mosobrtv/tv1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3397,7 +3397,7 @@
     "playlist": [
       "https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3427,7 +3427,7 @@
       "http://foreign-default.persik.by:82/live/Ch226/index.m3u8",
       "http://st1.astra-uk.ru:81/72fb20d7cba8d4ed1b3133b64b85c935/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "mtv-russia",
     "geo": 0,
     "is_top": false,
@@ -3456,7 +3456,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s28/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "muztv",
     "geo": 0,
     "is_top": false,
@@ -3485,7 +3485,7 @@
     "playlist": [
       "http://nano.teleservice.su:8080/hls/nano.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "nano-tv",
     "geo": 0,
     "is_top": false,
@@ -3514,7 +3514,7 @@
     "playlist": [
       "https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3543,7 +3543,7 @@
     "playlist": [
       "https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3572,7 +3572,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s98/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "nauka-20",
     "geo": 0,
     "is_top": true,
@@ -3601,7 +3601,7 @@
     "playlist": [
       "http://cdntv.online/high/e39cy5skaw/274.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "oxotnik-i-rybolov",
     "geo": 0,
     "is_top": false,
@@ -3630,7 +3630,7 @@
     "playlist": [
       "https://uiptv.do.am/1ufc/300663722/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "rtd-ru",
     "geo": 0,
     "is_top": false,
@@ -3659,7 +3659,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s63/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3688,7 +3688,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s80/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3717,7 +3717,7 @@
     "playlist": [
       "http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ryzhy",
     "geo": 0,
     "is_top": false,
@@ -3747,7 +3747,7 @@
       "http://86.57.178.105:10822",
       "http://st1.astra-uk.ru:81/e4eb5830bf416d1b49e2996a7868d14d/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -3776,7 +3776,7 @@
     "playlist": [
       "http://foreign-default.persik.by:82/live/Ch23/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "shot-tv",
     "geo": 0,
     "is_top": false,
@@ -3805,7 +3805,7 @@
     "playlist": [
       "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "sochi-live",
     "geo": 0,
     "is_top": false,
@@ -3834,7 +3834,7 @@
     "playlist": [
       "https://sc.id-tv.kz/Cinema_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "cinema-ru",
     "geo": 0,
     "is_top": false,
@@ -3863,7 +3863,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s68/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "texno-24",
     "geo": 0,
     "is_top": false,
@@ -3892,7 +3892,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s71/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "prikluchenia-hd",
     "geo": 0,
     "is_top": false,
@@ -3921,7 +3921,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s19/04.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tnt-int-cis",
     "geo": 0,
     "is_top": false,
@@ -3950,7 +3950,7 @@
     "playlist": [
       "https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tv-brics",
     "geo": 0,
     "is_top": false,
@@ -3979,7 +3979,7 @@
     "playlist": [
       "http://212.2.225.30:1935/live/site.stream/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -4008,7 +4008,7 @@
     "playlist": [
       "https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tvmchannel",
     "geo": 0,
     "is_top": false,
@@ -4038,7 +4038,7 @@
       "http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8",
       "http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "univer-tv",
     "geo": 0,
     "is_top": false,
@@ -4067,7 +4067,7 @@
     "playlist": [
       "https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "viasat-nature",
     "geo": 0,
     "is_top": false,
@@ -4097,7 +4097,7 @@
       "https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8",
       "http://217.71.224.86:8148"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "viasat-history",
     "geo": 0,
     "is_top": false,
@@ -4126,7 +4126,7 @@
     "playlist": [
       "http://185.228.135.48:8080/tv_match_tv_hd/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "match-tv",
     "geo": 0,
     "is_top": false,
@@ -4155,7 +4155,7 @@
     "playlist": [
       "http://foreign-default.persik.by:82/live/Ch36/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "match-premier",
     "geo": 0,
     "is_top": false,
@@ -4184,7 +4184,7 @@
     "playlist": [
       "http://185.184.233.180:5000/udp/225.1.2.156:1234"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "match-boets",
     "geo": 0,
     "is_top": false,
@@ -4214,7 +4214,7 @@
       "http://50.7.188.186/Match_Igra/mono.m3u8",
       "http://146.158.0.56/NANOTV/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "match-igra",
     "geo": 0,
     "is_top": false,
@@ -4243,7 +4243,7 @@
     "playlist": [
       "https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -4272,7 +4272,7 @@
     "playlist": [
       "https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -4301,7 +4301,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s41/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -4331,7 +4331,7 @@
       "http://foreign-default.persik.by:82/live/Ch39/index.m3u8",
       "http://65.108.9.39:8060/matc!futbol1hd/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "match-football1",
     "geo": 0,
     "is_top": false,
@@ -4360,7 +4360,7 @@
     "playlist": [
       "http://foreign-default.persik.by:82/live/Ch217/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "match-football2",
     "geo": 0,
     "is_top": false,
@@ -4390,7 +4390,7 @@
       "http://persik.by/stream/7504/377885/10218.m3u8",
       "http://91.210.251.17:4866/udp/239.0.1.144:4000"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "match-football3",
     "geo": 0,
     "is_top": false,
@@ -4419,7 +4419,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s81/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "setanta-sports",
     "geo": 0,
     "is_top": false,
@@ -4448,7 +4448,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s82/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "setanta-sports-plus",
     "geo": 0,
     "is_top": false,
@@ -4477,7 +4477,7 @@
     "playlist": [
       "https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -4508,7 +4508,7 @@
       "https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8",
       "http://iptv.prosto.tv:7000/ch44/video.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "vip-comedy",
     "geo": 0,
     "is_top": false,
@@ -4539,7 +4539,7 @@
       "http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_megahit",
       "https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "vip-megahit",
     "geo": 0,
     "is_top": false,
@@ -4569,7 +4569,7 @@
       "https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8",
       "http://iptv.prosto.tv:7000/ch45/video.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "vip-premiere",
     "geo": 0,
     "is_top": false,
@@ -4598,7 +4598,7 @@
     "playlist": [
       "https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -4627,7 +4627,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s31/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "zagorodny",
     "geo": 0,
     "is_top": false,
@@ -4656,7 +4656,7 @@
     "playlist": [
       "http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tonus-tv",
     "geo": 0,
     "is_top": false,
@@ -4685,7 +4685,7 @@
     "playlist": [
       "http://146.158.0.56/Zoopark/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "zootv",
     "geo": 0,
     "is_top": false,
@@ -4715,7 +4715,7 @@
       "http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8",
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "zvezda",
     "geo": 0,
     "is_top": false,
@@ -4744,7 +4744,7 @@
     "playlist": [
       "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "aris24",
     "geo": 0,
     "is_top": false,
@@ -4773,7 +4773,7 @@
     "playlist": [
       "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "arxyz24",
     "geo": 0,
     "is_top": false,
@@ -4803,7 +4803,7 @@
       "http://streaming.astrakhan.ru/astrakhan24/index.m3u8",
       "https://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "astraxan24",
     "geo": 0,
     "is_top": false,
@@ -4834,7 +4834,7 @@
       "https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8",
       "https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -4863,7 +4863,7 @@
     "playlist": [
       "https://msk3.peers.tv/streaming/start/126/vh1w/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "start",
     "geo": 0,
     "is_top": false,
@@ -4892,7 +4892,7 @@
     "playlist": [
       "https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -4921,7 +4921,7 @@
     "playlist": [
       "https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -4950,7 +4950,7 @@
     "playlist": [
       "http://xstream.afontovo.ru/afontovo_ya.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "afontovo-kr",
     "geo": 0,
     "is_top": false,
@@ -4979,7 +4979,7 @@
     "playlist": [
       "https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "bashkortostan24",
     "geo": 0,
     "is_top": false,
@@ -5008,7 +5008,7 @@
     "playlist": [
       "http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "belarus24",
     "geo": 0,
     "is_top": false,
@@ -5069,7 +5069,7 @@
     "playlist": [
       "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "belgorod24",
     "geo": 0,
     "is_top": false,
@@ -5098,7 +5098,7 @@
     "playlist": [
       "http://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tro",
     "geo": 0,
     "is_top": false,
@@ -5127,7 +5127,7 @@
     "playlist": [
       "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tro",
     "geo": 0,
     "is_top": false,
@@ -5160,7 +5160,7 @@
     "playlist": [
       "https://nsk12.peers.tv/streaming/bolshaya_aziya/16/h1080/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "bolshaya-azia",
     "geo": 0,
     "is_top": false,
@@ -5189,7 +5189,7 @@
     "playlist": [
       "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "vetta24",
     "geo": 0,
     "is_top": false,
@@ -5218,7 +5218,7 @@
     "playlist": [
       "https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "vechernyaya-moskva",
     "geo": 0,
     "is_top": false,
@@ -5247,7 +5247,7 @@
     "playlist": [
       "http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "vmeste-rf",
     "geo": 0,
     "is_top": false,
@@ -5276,7 +5276,7 @@
     "playlist": [
       "https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "volgograd-1",
     "geo": 0,
     "is_top": false,
@@ -5305,7 +5305,7 @@
     "playlist": [
       "http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "8kanal-ru",
     "geo": 0,
     "is_top": false,
@@ -5334,7 +5334,7 @@
     "playlist": [
       "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -5363,7 +5363,7 @@
     "playlist": [
       "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "gubernia-samara",
     "geo": 0,
     "is_top": false,
@@ -5392,7 +5392,7 @@
     "playlist": [
       "https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "gubernia-33",
     "geo": 0,
     "is_top": false,
@@ -5421,7 +5421,7 @@
     "playlist": [
       "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -5451,7 +5451,7 @@
       "http://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD/1080p.m3u8",
       "http://134.0.113.120:8000/play/dikayaribalkahd/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "dikaya-rybalka-hd",
     "geo": 0,
     "is_top": false,
@@ -5480,7 +5480,7 @@
     "playlist": [
       "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "evrasia",
     "geo": 0,
     "is_top": false,
@@ -5510,7 +5510,7 @@
       "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
       "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "izvestia",
     "geo": 0,
     "is_top": false,
@@ -5539,7 +5539,7 @@
     "playlist": [
       "http://83.97.111.172:4022/udp/224.0.45.182:1234?token=zi-1008"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kaleydoskop-tv",
     "geo": 0,
     "is_top": false,
@@ -5568,7 +5568,7 @@
     "playlist": [
       "https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "karapuz-tv",
     "geo": 0,
     "is_top": false,
@@ -5598,7 +5598,7 @@
       "https://sc.id-tv.kz/Kinosvidanie_hd.m3u8",
       "https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kinosvidanie",
     "geo": 0,
     "is_top": false,
@@ -5627,7 +5627,7 @@
     "playlist": [
       "https://sc.id-tv.kz:443/Kinoseriya_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kinoseria",
     "geo": 0,
     "is_top": false,
@@ -5657,7 +5657,7 @@
       "https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8",
       "http://foreign-default.persik.by:82/live/Ch60/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kinosemiya",
     "geo": 0,
     "is_top": false,
@@ -5688,7 +5688,7 @@
       "https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8",
       "http://st1.astra-uk.ru:81/fd3504e71b0da4b572c6942d915a1f5d/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kinoxit",
     "geo": 0,
     "is_top": false,
@@ -5718,7 +5718,7 @@
       "https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8",
       "http://146.158.0.56/Kinoujas/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kinouzhas",
     "geo": 0,
     "is_top": false,
@@ -5747,7 +5747,7 @@
     "playlist": [
       "https://nsk19.peers.tv/streaming/klassikakino/16/gvh1w/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "klassika-kino",
     "geo": 0,
     "is_top": false,
@@ -5776,7 +5776,7 @@
     "playlist": [
       "https://nsk19.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ntv-serial",
     "geo": 0,
     "is_top": false,
@@ -5805,7 +5805,7 @@
     "playlist": [
       "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Komediinoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImh3aWQiOiJlMGRhMmU5MDY4YzU0MDA3NWM5ZTA4MWZjODg5YTQ2ZGY2MjU0ODgyYTFmZWQzZmM0NWE0NDM0NDgwZDU5MjhiIiwic2Vzc2lvbl9pZCI6ImM4OWE1MmQ0ZGViYjc3NDQ1MWFkNTEwOGJkMTVlN2Y5IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.MrP7XcOGSb7WtFpUzjLiJyDLCbdFyPYtkJvqDFxdWY0"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kinopokaz-hd2",
     "geo": 0,
     "is_top": false,
@@ -5834,7 +5834,7 @@
     "playlist": [
       "http://217.71.224.86:8256"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "krasnaya-linia",
     "geo": 0,
     "is_top": false,
@@ -5863,7 +5863,7 @@
     "playlist": [
       "http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "krik-tv",
     "geo": 0,
     "is_top": false,
@@ -5892,7 +5892,7 @@
     "playlist": [
       "http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "krym24",
     "geo": 0,
     "is_top": false,
@@ -5921,7 +5921,7 @@
     "playlist": [
       "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ktk-kz",
     "geo": 0,
     "is_top": false,
@@ -5950,7 +5950,7 @@
     "playlist": [
       "https://stream.kuban24.tv:1500/hls/stream.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "kuban-24",
     "geo": 0,
     "is_top": false,
@@ -5979,7 +5979,7 @@
     "playlist": [
       "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ldpr-tv",
     "geo": 0,
     "is_top": false,
@@ -6008,7 +6008,7 @@
     "playlist": [
       "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "lipeckoe-vremia",
     "geo": 0,
     "is_top": false,
@@ -6037,7 +6037,7 @@
     "playlist": [
       "https://live.trk-luch.ru/hls/live.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -6066,7 +6066,7 @@
     "playlist": [
       "http://92.245.103.126:1935/live/live.stream/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tnt4",
     "geo": 0,
     "is_top": false,
@@ -6095,7 +6095,7 @@
     "playlist": [
       "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "matur-tv",
     "geo": 0,
     "is_top": false,
@@ -6124,7 +6124,7 @@
     "playlist": [
       "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -6153,7 +6153,7 @@
     "playlist": [
       "http://live.trkmillet.ru/millet/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "millet",
     "geo": 0,
     "is_top": false,
@@ -6182,7 +6182,7 @@
     "playlist": [
       "http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ministerstvo-idey",
     "geo": 0,
     "is_top": false,
@@ -6211,7 +6211,7 @@
     "playlist": [
       "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 4,
     "is_top": false,
@@ -6241,7 +6241,7 @@
       "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
       "https://sc.id-tv.kz/Mir24.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "mir-24",
     "geo": 0,
     "is_top": false,
@@ -6270,7 +6270,7 @@
     "playlist": [
       "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -6299,7 +6299,7 @@
     "playlist": [
       "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "mordovia-24",
     "geo": 0,
     "is_top": false,
@@ -6328,7 +6328,7 @@
     "playlist": [
       "http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "moskva-24",
     "geo": 0,
     "is_top": false,
@@ -6358,7 +6358,7 @@
       "http://retj.educom.ru/mosobrtv/tv1/index.m3u8",
       "http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "moskovsky-obrazovatelny",
     "geo": 0,
     "is_top": false,
@@ -6387,7 +6387,7 @@
     "playlist": [
       "https://sc.id-tv.kz:443/MoyaPlaneta_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "moya-planeta",
     "geo": 0,
     "is_top": false,
@@ -6416,7 +6416,7 @@
     "playlist": [
       "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "mtv-volgograd",
     "geo": 0,
     "is_top": false,
@@ -6446,7 +6446,7 @@
       "http://50.7.188.186/Muzhskoe_kino/mono.m3u8",
       "https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "muzhskoe-kino",
     "geo": 0,
     "is_top": false,
@@ -6475,7 +6475,7 @@
     "playlist": [
       "https://nsk19.peers.tv/streaming/dom_kino/16/gvh1w/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "domkino",
     "geo": 0,
     "is_top": false,
@@ -6504,7 +6504,7 @@
     "playlist": [
       "https://msk3.peers.tv/streaming/mir_seriala/126/tvrec/playlist.m3u8?"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "mir-seriala",
     "geo": 0,
     "is_top": false,
@@ -6534,7 +6534,7 @@
       "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
       "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "nadezhda",
     "geo": 0,
     "is_top": false,
@@ -6563,7 +6563,7 @@
     "playlist": [
       "https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "nastoyaschee-vremia",
     "geo": 0,
     "is_top": false,
@@ -6592,7 +6592,7 @@
     "playlist": [
       "http://85.234.33.60/stream/c11.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "nash-dom",
     "geo": 0,
     "is_top": false,
@@ -6622,7 +6622,7 @@
       "http://foreign-default.persik.by:82/live/Ch12/index.m3u8",
       "http://st1.astra-uk.ru:81/2c3ae8d5ff31d21cb37109d8cc1b5c21/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "nashe-novoe-kino",
     "geo": 0,
     "is_top": false,
@@ -6651,7 +6651,7 @@
     "playlist": [
       "http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "nebesa-tv7",
     "geo": 0,
     "is_top": false,
@@ -6680,7 +6680,7 @@
     "playlist": [
       "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "nika-tv",
     "geo": 0,
     "is_top": false,
@@ -6710,7 +6710,7 @@
       "https://sc.id-tv.kz/NovoeTelevidenie_34_35.m3u8",
       "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "novoe-televidenie",
     "geo": 0,
     "is_top": false,
@@ -6740,7 +6740,7 @@
       "http://stream.studio360.tv/nw/nw_576p/playlist.m3u8",
       "https://persik.by/stream/8682/252987/10231.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "novy-mir",
     "geo": 0,
     "is_top": false,
@@ -6769,7 +6769,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "noyabrsk24",
     "geo": 0,
     "is_top": false,
@@ -6798,7 +6798,7 @@
     "playlist": [
       "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -6827,7 +6827,7 @@
     "playlist": [
       "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ntm",
     "geo": 0,
     "is_top": false,
@@ -6856,7 +6856,7 @@
     "playlist": [
       "http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ntm",
     "geo": 0,
     "is_top": false,
@@ -6885,7 +6885,7 @@
     "playlist": [
       "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -6914,7 +6914,7 @@
     "playlist": [
       "http://185.18.4.16/live/3m/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -6943,7 +6943,7 @@
     "playlist": [
       "http://50.7.92.90/Ostrosyuzhetnoe_HD/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ostrosiuzhetnoe-hd",
     "geo": 0,
     "is_top": false,
@@ -6972,7 +6972,7 @@
     "playlist": [
       "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ostrosuzhetnoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImh3aWQiOiJlMGRhMmU5MDY4YzU0MDA3NWM5ZTA4MWZjODg5YTQ2ZGY2MjU0ODgyYTFmZWQzZmM0NWE0NDM0NDgwZDU5MjhiIiwic2Vzc2lvbl9pZCI6IjhmODgzNTMwNWU3NmYzNWY4NGZhMWZiNmEzZDY3Y2M1IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.5cDws_eYqY5-hvaHSgUreoOf8C2M3oZWak_c15R6jdM"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ostrosiuzhetnoe-hd",
     "geo": 0,
     "is_top": false,
@@ -7001,7 +7001,7 @@
     "playlist": [
       "http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7030,7 +7030,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "otr",
     "geo": 0,
     "is_top": false,
@@ -7059,7 +7059,7 @@
     "playlist": [
       "http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "ots",
     "geo": 0,
     "is_top": false,
@@ -7088,7 +7088,7 @@
     "playlist": [
       "https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "oxota-i-rybalka",
     "geo": 0,
     "is_top": false,
@@ -7117,7 +7117,7 @@
     "playlist": [
       "http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "pervy-kanal-eurasia-kz",
     "geo": 0,
     "is_top": false,
@@ -7146,7 +7146,7 @@
     "playlist": [
       "http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "pervy-krymsky",
     "geo": 0,
     "is_top": false,
@@ -7175,7 +7175,7 @@
     "playlist": [
       "https://sc.id-tv.kz/Pobeda_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7204,7 +7204,7 @@
     "playlist": [
       "https://sc.id-tv.kz/poehali_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "poexali",
     "geo": 0,
     "is_top": false,
@@ -7233,7 +7233,7 @@
     "playlist": [
       "https://autopilot.catcast.tv/content/39161/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7262,7 +7262,7 @@
     "playlist": [
       "http://83.97.111.172:4022/udp/224.0.45.124:1234?token=zi-1008"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "prodvizhenie",
     "geo": 0,
     "is_top": false,
@@ -7291,7 +7291,7 @@
     "playlist": [
       "http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7320,7 +7320,7 @@
     "playlist": [
       "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "radio-shanson",
     "geo": 0,
     "is_top": false,
@@ -7352,7 +7352,7 @@
       "http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8",
       "http://online.video.rbc.ru/online/rbctv_480p/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "rbk",
     "geo": 0,
     "is_top": false,
@@ -7381,7 +7381,7 @@
     "playlist": [
       "https://n1.slavmir.tv/live/slavmir/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7410,7 +7410,7 @@
     "playlist": [
       "http://foreign-default.persik.by:82/live/Ch41/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7439,7 +7439,7 @@
     "playlist": [
       "https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7468,7 +7468,7 @@
     "playlist": [
       "http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "russkaya-komedia",
     "geo": 0,
     "is_top": false,
@@ -7497,7 +7497,7 @@
     "playlist": [
       "https://sitv.ru/hls/stv1024.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "s1-surgut",
     "geo": 0,
     "is_top": false,
@@ -7526,7 +7526,7 @@
     "playlist": [
       "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7555,7 +7555,7 @@
     "playlist": [
       "http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7586,7 +7586,7 @@
       "https://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8",
       "https://live2.mediacdn.ru/sr1/sever/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "sever",
     "geo": 0,
     "is_top": false,
@@ -7615,7 +7615,7 @@
     "playlist": [
       "http://livetv.mylifeisgood.ml/mfolive.m3u8?media=smile"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "smaylik-tv",
     "geo": 0,
     "is_top": false,
@@ -7646,7 +7646,7 @@
       "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
       "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "soyuz",
     "geo": 0,
     "is_top": false,
@@ -7675,7 +7675,7 @@
     "playlist": [
       "http://212.98.171.116/HLS/ctvby/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "stv-by",
     "geo": 0,
     "is_top": false,
@@ -7704,7 +7704,7 @@
     "playlist": [
       "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7733,7 +7733,7 @@
     "playlist": [
       "http://sochi-strk.ru:2015/STRK/mpegts"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "strk",
     "geo": 0,
     "is_top": false,
@@ -7762,7 +7762,7 @@
     "playlist": [
       "https://sc.id-tv.kz/STS.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "sts-int",
     "geo": 0,
     "is_top": false,
@@ -7791,7 +7791,7 @@
     "playlist": [
       "https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7820,7 +7820,7 @@
     "playlist": [
       "https://video1.in-news.ru/c24/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "surgut-24",
     "geo": 0,
     "is_top": false,
@@ -7849,7 +7849,7 @@
     "playlist": [
       "https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tatarstan24",
     "geo": 0,
     "is_top": false,
@@ -7878,7 +7878,7 @@
     "playlist": [
       "http://live-1.otcnet.ru:80/tvextra720b/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7907,7 +7907,7 @@
     "playlist": [
       "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -7936,7 +7936,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tvtour",
     "geo": 0,
     "is_top": false,
@@ -7965,7 +7965,7 @@
     "playlist": [
       "http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tvcentr",
     "geo": 0,
     "is_top": false,
@@ -7994,7 +7994,7 @@
     "playlist": [
       "https://sitv.ru/hls/s861024.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "86-surgut",
     "geo": 0,
     "is_top": false,
@@ -8023,7 +8023,7 @@
     "playlist": [
       "http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tnv-planeta",
     "geo": 0,
     "is_top": false,
@@ -8052,7 +8052,7 @@
     "playlist": [
       "https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tolyatti24",
     "geo": 0,
     "is_top": false,
@@ -8081,7 +8081,7 @@
     "playlist": [
       "https://autopilot.catcast.tv/content/38896/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -8110,7 +8110,7 @@
     "playlist": [
       "https://autopilot.catcast.tv/content/38801/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -8139,7 +8139,7 @@
     "playlist": [
       "http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1//chunklist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "xuzur-tv",
     "geo": 0,
     "is_top": false,
@@ -8168,7 +8168,7 @@
     "playlist": [
       "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "shanson-tv-hb",
     "geo": 0,
     "is_top": false,
@@ -8197,7 +8197,7 @@
     "playlist": [
       "http://stream0.tv41.ru/live.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -8226,7 +8226,7 @@
     "playlist": [
       "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -8255,7 +8255,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "yu",
     "geo": 0,
     "is_top": false,
@@ -8284,7 +8284,7 @@
     "playlist": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "che",
     "geo": 0,
     "is_top": false,
@@ -8313,7 +8313,7 @@
     "playlist": [
       "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "yugra",
     "geo": 0,
     "is_top": false,
@@ -8342,7 +8342,7 @@
     "playlist": [
       "https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8?version=2"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "yurgan",
     "geo": 0,
     "is_top": false,
@@ -8371,7 +8371,7 @@
     "playlist": [
       "https://sc.id-tv.kz/TLCHD_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "tlc",
     "geo": 0,
     "is_top": false,
@@ -8400,7 +8400,7 @@
     "playlist": [
       "https://sc.id-tv.kz:443/bober_34_35.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "bobior",
     "geo": 0,
     "is_top": false,
@@ -8430,7 +8430,7 @@
       "http://94.230.240.17:8080/usadba/index.m3u8",
       "http://31.173.178.110:8104/play/a05h/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "usadba",
     "geo": 0,
     "is_top": false,
@@ -8459,7 +8459,7 @@
     "playlist": [
       "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "utv-cheboxary",
     "geo": 0,
     "is_top": false,
@@ -8488,7 +8488,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s83/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
@@ -8517,7 +8517,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s42/index.m3u8"
     ],
-    "adTagVast": "https://video.onetouch8.info/api/video/tag?sourceId=40657&tmax=500&video-skipafter=5",
+    "adTagVast": "https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5PF1YfOgqS6UphMc9i33pmRTNG4u_Zy_yA/vast3",
     "scheduleName": "",
     "geo": 0,
     "is_top": false,
