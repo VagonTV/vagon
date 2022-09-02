@@ -3,8 +3,7 @@
     "name": "Первый канал HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "playlist": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
-      "https://nsk19.peers.tv/streaming/1kanal/126/variable.m3u8?",
+      "https://nsk12.peers.tv/streaming/1kanal/126/variable.m3u8?",
       "http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2"
     ],
     "adTagVast": "",
@@ -1528,7 +1527,7 @@
     "name": "Russian Musicbox",
     "logo": "https://vagontv.github.io/vagon/logo/ic_russian_musicbox.png",
     "playlist": [
-      "https://nsk19.peers.tv/streaming/musboxru/16/vh1w/playlist.m3u8?"
+      "https://nsk12.peers.tv/streaming/musboxru/16/vh1w/playlist.m3u8?"
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "russian-musicbox",
@@ -1586,7 +1585,7 @@
     "name": "НТВ",
     "logo": "https://vagontv.github.io/vagon/logo/ic_ntv.png",
     "playlist": [
-      "https://nsk19.peers.tv/streaming/ntv/16/gvh1w/playlist.m3u8?"
+      "https://nsk12.peers.tv/streaming/ntv/16/gvh1w/playlist.m3u8?"
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "ntv",
@@ -2287,7 +2286,7 @@
     "name": "8 Канал",
     "logo": "https://vagontv.github.io/vagon/logo/ic_8tv.png",
     "playlist": [
-      "https://nsk19.peers.tv/streaming/8_kanal/16/gvh1w/playlist.m3u8?",
+      "https://nsk12.peers.tv/streaming/8_kanal/16/gvh1w/playlist.m3u8?",
       "http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8"
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2463,7 +2462,7 @@
     "name": "TV XX1 ВЕК",
     "logo": "https://vagontv.github.io/vagon/logo/ic_tv_xx1_vek.png",
     "playlist": [
-      "https://nsk19.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?"
+      "https://nsk12.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?"
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "tvxxi",
@@ -2812,7 +2811,7 @@
     "name": "Cartoon Network",
     "logo": "https://vagontv.github.io/vagon/logo/ic_cartoon_network.png",
     "playlist": [
-      "https://nsk19.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8?"
+      "https://nsk12.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8?"
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "cartoon-network",
@@ -5745,7 +5744,7 @@
     "name": "Классика Кино",
     "logo": null,
     "playlist": [
-      "https://nsk19.peers.tv/streaming/klassikakino/16/gvh1w/playlist.m3u8?"
+      "https://nsk12.peers.tv/streaming/klassikakino/16/gvh1w/playlist.m3u8?"
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "klassika-kino",
@@ -5774,7 +5773,7 @@
     "name": "НТВ-Сериал",
     "logo": "https://vagontv.github.io/vagon/logo/ic_ntv_serial.png",
     "playlist": [
-      "https://nsk19.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8?"
+      "https://nsk12.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8?"
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "ntv-serial",
@@ -6473,7 +6472,7 @@
     "name": "Дом кино",
     "logo": "https://vagontv.github.io/vagon/logo/ic_dom_kino.png",
     "playlist": [
-      "https://nsk19.peers.tv/streaming/dom_kino/16/gvh1w/playlist.m3u8?"
+      "https://nsk12.peers.tv/streaming/dom_kino/16/gvh1w/playlist.m3u8?"
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "domkino",
