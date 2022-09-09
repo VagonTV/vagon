@@ -10,7 +10,7 @@
       {
         "owner":"other",
         "url":"http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2"
-      },
+      }
     ],
     "adTagVast": "",
     "scheduleName": "pervy",
@@ -1169,11 +1169,11 @@
     "sources":[
       {
         "owner":"other",
-        "url":"https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8",
+        "url":"https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8"
       },
       {
         "owner":"other",
-        "url":"http://50.7.188.186/TV1000ActionHD/mono.m3u8",
+        "url":"http://50.7.188.186/TV1000ActionHD/mono.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2294,7 +2294,7 @@
       {
         "owner":"other",
         "url":""
-      },
+      }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "kino-tv",
@@ -5438,7 +5438,7 @@
       {
         "owner":"other",
         "url":"https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8"
-      },
+      }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "",
@@ -6999,10 +6999,6 @@
     "name": "Мир 24",
     "logo": "https://vagontv.github.io/vagon/logo/ic_mir24.png",
     "sources":[
-      {
-        "owner":"other",
-        "url":"http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-      },
       {
         "owner":"other",
         "url":"https://sc.id-tv.kz/Mir24.m3u8"
@@ -8594,7 +8590,7 @@
       {
         "owner":"other",
         "url":"https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
-      },
+      }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
     "scheduleName": "soyuz",
