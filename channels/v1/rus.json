@@ -4,10 +4,6 @@
     "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "sources":[
       {
-        "owner":"1tv",
-        "url": "https://stream.1tv.ru/api/playlist/1tvch-dvr-hls-12h_as_array.json?r=4546919"
-      },
-      {
         "owner":"peers",
         "url":"https://nsk12.peers.tv/streaming/1kanal/126/variable.m3u8?"
       },
