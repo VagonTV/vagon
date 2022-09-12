@@ -4,6 +4,10 @@
     "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
     "sources":[
       {
+        "owner":"1tv",
+        "url": "https://stream.1tv.ru/api/playlist/1tvch-dvr-hls-12h_as_array.json?r=4546919"
+      },
+      {
         "owner":"peers",
         "url":"https://nsk12.peers.tv/streaming/1kanal/126/variable.m3u8?"
       },
@@ -920,7 +924,7 @@
     "logo": "https://vagontv.github.io/vagon/logo/ic_russia_24.png",
     "sources":[
       {
-        "owner":"other",
+        "owner":"peers",
         "url":"https://msk3.peers.tv/streaming/vesti/126/vm2w/playlist.m3u8?"
       }
     ],
@@ -1732,7 +1736,7 @@
     "logo": "https://vagontv.github.io/vagon/logo/ic_russian_musicbox.png",
     "sources":[
       {
-        "owner":"other",
+        "owner":"peers",
         "url":"https://nsk12.peers.tv/streaming/musboxru/16/vh1w/playlist.m3u8?"
       }
     ],
@@ -1796,7 +1800,7 @@
     "logo": "https://vagontv.github.io/vagon/logo/ic_ntv.png",
     "sources":[
       {
-        "owner":"other",
+        "owner":"peers",
         "url":"https://nsk12.peers.tv/streaming/ntv/16/gvh1w/playlist.m3u8?"
       }
     ],
@@ -3200,7 +3204,7 @@
     "logo": "https://vagontv.github.io/vagon/logo/ic_multimanya.png",
     "sources":[
       {
-        "owner":"other",
+        "owner":"peers",
         "url":"https://msk3.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8?"
       }
     ],
