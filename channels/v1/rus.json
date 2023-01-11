@@ -3096,20 +3096,16 @@
     }
   },
   {
-    "name": "Дисней",
-    "logo": "https://vagontv.github.io/vagon/logo/ic_disney.png",
+    "name": "Солнце",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_solnce.png",
     "sources":[
       {
-        "owner":"other",
-        "url":"http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2"
-      },
-      {
         "owner":"peers",
-        "url":"https://msk3.peers.tv/streaming/disney/126/tvrec/playlist.m3u8?"
+        "url":"https://msk3.peers.tv/streaming/solntse/16/gvh1w/playlist.m3u8?"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
-    "scheduleName": "disney",
+    "scheduleName": "solnce",
     "geo": 0,
     "is_top": true,
     "category": "Kids",
