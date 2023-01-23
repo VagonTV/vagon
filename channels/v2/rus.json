@@ -526,7 +526,13 @@
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
-    "vitrina_info": null,
+    "vitrina_info": {
+      "code_name": "rentv/vitrinatv_web",
+      "api": "api",
+      "company": "nmg",
+      "file": "ren-tv_as_array.json",
+      "egress_version": 1691629
+    },
     "scheduleName": "rentv",
     "geo": 0,
     "is_top": true,
@@ -872,7 +878,13 @@
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
-    "vitrina_info": null,
+    "vitrina_info": {
+      "code_name": "kultura/vitrinatv_web",
+      "api": "api",
+      "company": "vgtrk",
+      "file": "russiak_as_array.json",
+      "egress_version": 909023
+    },
     "scheduleName": "kultura",
     "geo": 0,
     "is_top": true,
