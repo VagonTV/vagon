@@ -913,6 +913,10 @@
     "sources":[
       {
         "owner":"other",
+        "url": "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/911/index.m3u8"
+      },
+      {
+        "owner":"other",
         "url": "https://sc.id-tv.kz/domkino_hd_34_35.m3u8"
       }
     ],
@@ -1154,6 +1158,10 @@
     "name": "Кинокомедия HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_kinocomedya.png",
     "sources":[
+      {
+        "owner":"other",
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/145/index.m3u8"
+      },
       {
         "owner":"other",
         "url":"https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8"
@@ -1790,7 +1798,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://217.71.224.86:8170"
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/122/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2522,7 +2530,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8"
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/14160/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2757,7 +2765,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://45.94.219.9:8081/stream/test104/hls/playlist.m3u8"
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/2076/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2790,7 +2798,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://45.94.219.9:8081/stream/test104/hls/playlist.m3u8"
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/905/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2857,6 +2865,10 @@
       {
         "owner":"other",
         "url": "https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8"
+      },
+      {
+        "owner":"other",
+        "url": "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/2114/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3007,39 +3019,6 @@
       {
         "code": "kz",
         "name": "Kazakhstan"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Amedia Hit",
-    "logo": "https://vagontv.github.io/vagon/logo/ic_amedia_hit.png",
-    "sources":[
-      {
-        "owner":"other",
-        "url":  "https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8"
-      }
-    ],
-    "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
-    "vitrina_info": null,
-    "scheduleName": "amedia-hit",
-    "geo": 0,
-    "is_top": false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
       }
     ],
     "tvg": {
@@ -3389,7 +3368,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":  ""
+        "url":  "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/1018/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3554,7 +3533,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":  ""
+        "url":  "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/908/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3620,7 +3599,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": "https://vsd94.mycdn.me/dash/stream_331355982445/stream.manifest/sig/nuukdFmkp6Y/expires/1673590478724/srcIp/95.181.1.79/urls/185.226.52.65/clientType/0/srcAg/CHROME/mid/363045854829/stream-low.jidx?_rnd=71135716"
+        "url": "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/14165/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3720,7 +3699,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":      "http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8"
+        "url": "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/861/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3753,7 +3732,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://nano.teleservice.su:8080/hls/luxury.m3u8"
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/2072/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3819,7 +3798,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": ""
+        "url": "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/17033/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3919,7 +3898,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"https://us.justv.org:8080/hls/mtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIzIDY6MTY6MDMgQU0maGFzaF92YWx1ZT1JR1NiR2U2cmM2Vmw1Y1BzdjlBQ1Z3PT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw"
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/142/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4315,7 +4294,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://213.226.137.140:81/tl/l60/mpegts"
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/526/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4815,7 +4794,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":""
+        "url":"http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -6442,7 +6421,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://146.158.0.56/Kinoujas/mono.m3u8"
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/2056/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -6541,7 +6520,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":  ""
+        "url":  "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/912/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -7840,45 +7819,12 @@
     }
   },
   {
-    "name": "Остросюжетное FHD",
-    "logo": null,
-    "sources":[
-      {
-        "owner":"other",
-        "url":"http://213.172.73.133:8081/nimble_live/9009_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_HD/playlist.m3u8"
-      }
-    ],
-    "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
-    "vitrina_info": null,
-    "scheduleName": "ostrosiuzhetnoe-hd",
-    "geo": 0,
-    "is_top": false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Остросюжетное HD ",
     "logo": null,
     "sources":[
       {
         "owner":"other",
-        "url":""
+        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/904/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
