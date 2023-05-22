@@ -913,7 +913,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/911/index.m3u8"
+        "url": "http://31.148.48.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8"
       },
       {
         "owner":"other",
@@ -1160,7 +1160,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/145/index.m3u8"
+        "url":"http://45.137.67.43:8081/2023/komediya-channel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDIzIDQ6Mjc6MzkgQU0maGFzaF92YWx1ZT1nNm5WaGxiYS9HdUZ3djd6Z2VxVVhBPT0mdmFsaWRtaW51dGVzPTU="
       },
       {
         "owner":"other",
@@ -1798,7 +1798,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/122/index.m3u8"
+        "url":"https://ip1.ontivi.net:1443/160/index.m3u8?wmsAuthSign=1684747800p97i1i181i59Sa4be619ee950f000fda7988758ccc81b"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2134,7 +2134,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8"
+        "url":"http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3533,7 +3533,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":  "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/908/index.m3u8"
+        "url":  "http://ott-cdn.ucom.am/s44/04.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3665,7 +3665,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":      "http://194.113.234.110:4058"
+        "url":      "http://ott-cdn.ucom.am/s40/04.m3u8"
 
       }
     ],
@@ -3765,7 +3765,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://78.25.155.47:1309/channel/Mama.ts"
+        "url":"http://193.33.240.8:8080/mama/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3931,7 +3931,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": ""
+        "url": "https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4228,7 +4228,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": "http://193.33.240.8/ryzhiy/index.m3u8"
+        "url": "http://ott-cdn.ucom.am/s57/04.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4827,7 +4827,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": ""
+        "url": "http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -5165,7 +5165,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"https://limehd.cdnvideo.ru/streaming/country/324/1/index.m3u8?e=1673590979&md5=ocayanWUlfSP8vd5jE3DMQ"
+        "url":"http://ott-cdn.ucom.am/s31/04.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -7819,12 +7819,12 @@
     }
   },
   {
-    "name": "Остросюжетное HD ",
+    "name": "Остросюжетное HD",
     "logo": null,
     "sources":[
       {
         "owner":"other",
-        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/904/index.m3u8"
+        "url":"http://213.172.73.133:8081/nimble_live/9009_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_HD/playlist.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
