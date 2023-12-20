@@ -1304,7 +1304,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8"
+        "url":"https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2134,7 +2134,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8"
+        "url":"http://45.159.74.13:80/Kinopremera/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2365,6 +2365,10 @@
     "sources":[
       {
         "owner":"other",
+        "url":"http://dmi3y-tv.ru/hls/CH_KINOMIKS.m3u8"
+      },
+      {
+        "owner":"other",
         "url":"https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8"
       }
     ],
@@ -2497,7 +2501,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": "https://river-6-602.rutube.ru/stream/musang-704.brz.rutube.ru/afZPBnAxzeOST1EbqBJ1UA/1673524713/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8"
+        "url": "http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2727,7 +2731,7 @@
     }
   },
   {
-    "name": "A1 Amedia TV ",
+    "name": "Amedia Premium",
     "logo": "https://vagontv.github.io/vagon/logo/ic_a1_amedia.png",
     "sources":[
       {
@@ -2735,7 +2739,7 @@
         "url": ""
       }
     ],
-    "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
+    "adTagVast": "http://stream01.vnet.am/AmediaPremium/mono.m3u8",
     "vitrina_info": null,
     "scheduleName": "",
     "geo": 0,
@@ -2765,7 +2769,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/2076/index.m3u8"
+        "url":"http://46.151.151.245:10002/play/a0b3"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2831,7 +2835,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://78.25.155.47:1309/channel/rus_d.ts"
+        "url":"http://45.144.31.195:8010/playlist.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2864,11 +2868,11 @@
     "sources":[
       {
         "owner":"other",
-        "url": "https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8"
+        "url": "http://tbs01-edge17.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8"
       },
       {
         "owner":"other",
-        "url": "http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/2114/index.m3u8"
+        "url": "https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3268,6 +3272,10 @@
     "name": "Da Vinci",
     "logo": "https://vagontv.github.io/vagon/logo/ic_davinci.png",
     "sources":[
+      {
+        "owner":"other",
+        "url":  "http://livetv.mylifeisgood.net.ru/channels/davinci.m3u8"
+      },
       {
         "owner":"other",
         "url":  "https://sc.id-tv.kz/DaVinci_34_35.m3u8"
@@ -4261,7 +4269,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://86.57.178.105:10822"
+        "url":"http://178.124.179.122:8088/Sarafan/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4327,7 +4335,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":      "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8"
+        "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8"
 
       }
     ],
@@ -6355,6 +6363,10 @@
     "sources":[
       {
         "owner":"other",
+        "url":"http://dmi3y-tv.ru/hls/CH_KINOSEMYA.m3u8"
+      },
+      {
+        "owner":"other",
         "url":"https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8"
       }
     ],
@@ -6421,7 +6433,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/2056/index.m3u8"
+        "url":"http://moobl.ru/hls/Kinouzhas.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -7248,6 +7260,10 @@
     "name": "Мужское кино HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_myjskoe_kino.png",
     "sources":[
+      {
+        "owner":"other",
+        "url":"http://45.159.74.14:80/MujskoeKino/index.m3u8"
+      },
       {
         "owner":"other",
         "url":"https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8"
