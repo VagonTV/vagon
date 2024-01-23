@@ -1160,7 +1160,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://45.137.67.43:8081/2023/komediya-channel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDIzIDQ6Mjc6MzkgQU0maGFzaF92YWx1ZT1nNm5WaGxiYS9HdUZ3djd6Z2VxVVhBPT0mdmFsaWRtaW51dGVzPTU="
+        "url":"https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8"
       },
       {
         "owner":"other",
@@ -1798,7 +1798,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"https://ip1.ontivi.net:1443/160/index.m3u8?wmsAuthSign=1684747800p97i1i181i59Sa4be619ee950f000fda7988758ccc81b"
+        "url":"https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -1896,6 +1896,10 @@
     "logo": "https://vagontv.github.io/vagon/logo/ic_ntv.png",
     "sources":[
       {
+        "owner":"other",
+        "url":"http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8"
+      },
+      {
         "owner":"peers",
         "url":"https://nsk12.peers.tv/streaming/ntv/16/gvh1w/playlist.m3u8?"
       }
@@ -1934,6 +1938,10 @@
     "name": "НТВ-Хит",
     "logo": "https://vagontv.github.io/vagon/logo/ic_ntv_hit.png",
     "sources":[
+      {
+        "owner":"other",
+        "url":"http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8"
+      },
       {
         "owner":"peers",
         "url": "https://msk3.peers.tv/streaming/ntv_hit/16/vh1w/playlist.m3u8?"
@@ -2198,6 +2206,10 @@
     "name": "Родное Кино",
     "logo": "https://vagontv.github.io/vagon/logo/ic_rodnoe_kino.png",
     "sources":[
+      {
+        "owner":"other",
+        "url":"https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8"
+      },
       {
         "owner":"other",
         "url":"https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8"
@@ -2802,7 +2814,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://rn2yfxko.tvclub.xyz/iptv/WNUHP24ATZ7GZL/905/index.m3u8"
+        "url":"http://91.142.158.107:8092/play/26/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2835,7 +2847,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://45.144.31.195:8010/playlist.m3u8"
+        "url":"http://91.142.158.107:8092/play/27/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -2868,7 +2880,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": "http://tbs01-edge17.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8"
+        "url": "http://86.57.178.105:10823"
       },
       {
         "owner":"other",
@@ -3168,6 +3180,10 @@
     "logo": "https://vagontv.github.io/vagon/logo/ic_carousel.png",
     "sources":[
       {
+        "owner":"other",
+        "url":  "https://streaming.televizor-24-tochka.ru/live/11-req_offset_28000000-req_window_0-1k_v5.m3u8"
+      },
+      {
         "owner":"peers",
         "url":  "https://msk3.peers.tv/streaming/karusel/16/g2500/playlist.m3u8?"
       }
@@ -3200,6 +3216,10 @@
     "name": "Солнце",
     "logo": "https://vagontv.github.io/vagon/logo/ic_solnce.png",
     "sources":[
+      {
+        "owner":"other",
+        "url":  "http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8"
+      },
       {
         "owner":"peers",
         "url":"https://msk3.peers.tv/streaming/solntse/16/gvh1w/playlist.m3u8?"
@@ -3442,7 +3462,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":  "https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8"
+        "url":  "http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3773,7 +3793,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://193.33.240.8:8080/mama/index.m3u8"
+        "url":"http://stream01.vnet.am/Mama/mono.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -3939,7 +3959,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": "https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8"
+        "url": "http://stream01.vnet.am/MuzTv/mono.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4071,7 +4091,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": "http://78.25.155.47:1309/channel/Nauka.ts"
+        "url": "http://109.239.208.82:80/nauka20/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4269,7 +4289,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://178.124.179.122:8088/Sarafan/index.m3u8"
+        "url":"http://86.57.178.105:10822"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4369,7 +4389,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"https://sc.id-tv.kz/Cinema_34_35.m3u8"
+        "url":"https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4703,7 +4723,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":""
+        "url":"http://91.142.158.107:8092/play/33/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -4835,7 +4855,7 @@
     "sources":[
       {
         "owner":"other",
-        "url": "http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8"
+        "url": "http://91.205.165.11:22888/play/58/index.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -5454,6 +5474,10 @@
     "logo": "https://iptvxpix.ml/start.png",
     "sources":[
       {
+        "owner":"other",
+        "url":"https://strm.yandex.ru/kal/start/start0.m3u8"
+      },
+      {
         "owner":"peers",
         "url":"https://msk3.peers.tv/streaming/start/126/vh1w/playlist.m3u8?"
       }
@@ -5887,7 +5911,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8"
+        "url":"https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -6293,7 +6317,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"https://sc.id-tv.kz/Kinosvidanie_hd.m3u8"
+        "url":"http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8"
       },
       {
         "owner":"other",
@@ -6433,7 +6457,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":"http://moobl.ru/hls/Kinouzhas.m3u8"
+        "url":"http://91.207.115.228:5000/c43"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
@@ -6994,7 +7018,7 @@
     "sources":[
       {
         "owner":"other",
-        "url":  "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8"
+        "url":  "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
       }
     ],
     "adTagVast": "https://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=724637&bt=61&tuid=1&pid=3426723&bn=3426723&rnd=412436499",
