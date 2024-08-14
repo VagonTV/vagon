@@ -242,7 +242,7 @@
     "name": "Россия 1 HD",
     "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
     "vitrina": {
-      "api":"https://media.mediavitrina.ru/balancer/v3/russia1/russia1/streams.json?application_id=&player_referer_hostname=vitrina.tv&config_checksum_sha256=&egress_version_id=2657277&=",
+      "api":"https://media.mediavitrina.ru/balancer/v3/russia1/russia1/streams.json?application_id=&player_referer_hostname=vitrina.tv&config_checksum_sha256&=",
       "player_url": "https://player.mediavitrina.ru/russia1/vitrinatv_web/player.html"
     },
     "sources":[
